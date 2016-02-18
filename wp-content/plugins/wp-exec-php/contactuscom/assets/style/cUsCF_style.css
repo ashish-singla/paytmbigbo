@@ -1,0 +1,115 @@
+/**
+ * 
+ * CONTACT FORM BY CONTACTUS.COM
+ * 
+ * Initialization Contact Form STYLES
+ * @since 1.0 First time this was introduced into Contact Form plugin.
+ * @author ContactUs.com <support@contactus.com>
+ * @copyright 2013 ContactUs.com Inc.
+ * Company      : contactus.com
+ **/
+
+
+.modal-dialog {
+    margin: 40px auto !important;
+    max-width: 650px !important;
+    min-width: 200px !important;
+    width: auto;
+}
+
+.bootbox-body{margin: 20px 0px;}
+
+.btn a{color: #fff;}
+
+.tooltips + .tooltip > .tooltip-inner {background-color: #4FA0C2;}
+
+#menu ul {
+    height: 60px !important;
+}
+
+#userMenu button{line-height: 35px !important;}
+
+
+label.error {
+    background-color: #F8F2CF;
+    border-color: -moz-use-text-color #FF0000 #FF0000;
+    border-image: none;
+    border-right: 1px solid #FF0000;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    display: block;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0 10px;
+    padding: 5px;
+    text-align: right;
+}
+
+input.error { border-color: #FF0000; }
+.signup-form,
+.hidden_el{display:none;}
+
+.cUsCF_preloadbox{background:#fff;width:100%;height:100%;position: absolute;top: 0;left: 0;z-index: 9999;opacity: 1;}
+.cUsCF_preloadbox .cUsCF_loadmessage{background:url(images/contactus-logo.png) top center no-repeat;width:250px;height:100px;position: absolute;top: 130px;left: 37%;}
+.cUsCF_preloadbox .cUsCF_loadmessage > .loadingBx{background:url(images/loading.gif) top center no-repeat;width:250px;height:20px;position: absolute;bottom: 0;}
+
+.loading{background:url(images/contactus-loading.gif) top center no-repeat;padding: 10px 25px;display: none;}
+.advice {background: #faffd7;border: 1px solid #e8d09e;color: #E94C27;font-size: 13px;padding: 15px;text-align: center;}
+.advice a{font-weight: bold;text-decoration: underline;color: #289ed6;}
+
+.notice_error{border:1px solid #e87b00;color:#e94c27;font-weight:bold;font-size:14px;background:#ffe6ca;padding: 10px 0 10px 20px;display:none;clear: both}
+.notice_success{border:1px solid #698c1f;color:#77a01f;font-weight:bold;font-size:14px;background:#ebffc2;margin:10px auto;padding:20px;width:100%;display: none;clear: both}
+
+div.intro_box_ai.intro{width: 440px;}
+div.intro_box_ai > .intro_003_area{width: 300px;margin: 10px auto;clear: both;background: url("images/intro_003.png") top center no-repeat;background-size: 100% auto;min-height:250px;display: block;}
+div.intro_box_ai > .intro_form_area{width: 300px;margin: 10px auto;clear: both;background: url("images/intro_004.png") top center no-repeat;background-size: 100% auto;min-height:250px;display: block;}
+div.intro_box_ai > .iL{width: 110px;height:110px;margin: 5px;float: left;}
+div.intro_box_ai > .iL > .thumb{width: 110px;height:110px;margin: 5px;background: url("images/intro_000.png") top center no-repeat;display: block;background-size: 100% auto;}
+div.intro_box_ai > .iL > .thumb.set_000{background: url("images/intro_set_000.png") top center no-repeat;background-size: 100% auto;}
+div.intro_box_ai > .iL > .thumb.sc_000{background: url("images/intro_sc_000.png") top center no-repeat;background-size: 100% auto;}
+div.intro_box_ai > .iL > .thumb.ac_000{background: url("images/intro_ac_000.png") top center no-repeat;background-size: 100% auto;}
+div.intro_box_ai > .iL > .thumb.fpt_000{background: url("images/intro_fp_000.png") top center no-repeat;background-size: 100% auto;}
+div.intro_box_ai > .iR{width: 300px;min-height:110px;margin: 5px;float: right;}
+
+div.intro_box_ai h1{color: #66B3DD;font-size: 20px;font-weight: bold;}
+div.intro_box_ai h2{color: #85AB1F;font-size: 14px;font-weight: bold;}
+div.intro_box_ai ul.green{color: #85AB1F;font-size: 99%;}
+div.intro_box_ai ul.purple{color: #5910CD;font-size: 99%;}
+div.intro_box_ai ul {margin-left: 35px;}
+div.intro_box_ai ul li{list-style: disc;}
+div.intro_box_ai > .logo { display: block;width: 100%;clear: both;height: 25px;background: url("images/contactus-logo.png") top center no-repeat;margin-top: 10px; }
+.introjs-tooltip {max-width: 600px !important;}
+.introjs-bullets {clear: both;}
+
+.save_message{width:100%;height:100%;position:absolute;z-index:9999;background:#000;opacity:0.8;text-align:center;color: #47A447;top:0;left: 0;display: none;}
+.save_message p{margin-top: 125px;background:url(images/loading.gif) top center no-repeat;padding-top: 40px;}
+.form_placement_item{position: relative;}
+.save_message_placement{width:450px;height:90px;position:fixed;z-index:9999;background:#000;opacity:0.8;text-align:center;color: #47A447;bottom:0;left: 35%;display: none}
+.save_message_placement p{margin-top: 25px;background:url(images/loading.gif) top center no-repeat;padding-top: 20px;}
+
+.contaus_features{width: 100%;min-height:656px;position: relative;background: url("images/what_you_get_bk.jpg") top no-repeat;}
+.contaus_features .head_title{width: 100%;position: absolute;text-align: center;top: 0%;background:url("images/what_you_get_start_title_bk.png");padding: 20px 0 15px 0;border-radius: 10px 10px 0 0;border-bottom: 1px solid #D5D7FF;}
+.contaus_features .head_title h2{color: #fff !important;text-shadow: 0px 1px 1px #000;margin: 0 !important;}
+.contaus_features .road_features{width: 100%;min-height:656px;position: relative;background: url("images/what_you_get_road.png") top center no-repeat;background-size: 100% 100%;}
+.contaus_features ._row{width: 100% !important;position: relative;height: 108px;overflow: visible;clear: both;}
+.contaus_features ._row > ._col{width: 25% !important;position: relative;height: 108px;overflow: visible;float: left;margin: 0;padding: 0;}
+.contaus_features a.feature{display: block; width: 90%;height: 65px;position: absolute;background-size: 100%;z-index: 99;}
+
+.contaus_features a.arrow_start{background: url("images/what_you_get_start.png") top no-repeat;height: 84px;bottom: -37px;right: -12px;}
+.contaus_features a.contacts{background: url("images/what_you_get_start_01_contacts.png") top no-repeat;background-size: 100% auto;bottom: -30px;}
+.contaus_features a.contactform{background: url("images/what_you_get_start_02_contactform.png") top no-repeat;background-size: 100% auto;bottom: -30px;}
+.contaus_features a.wp{background: url("images/what_you_get_start_03_wp.png") top no-repeat;background-size: 100% auto;bottom: -30px;}
+
+.contaus_features a.tracking{background: url("images/what_you_get_start_04_call.png") top no-repeat;background-size: 100% auto;bottom: -10px;right: 5px;}
+
+.contaus_features a.chat{background: url("images/what_you_get_start_08_chat.png") top no-repeat;background-size: 100% auto;width: 112%;bottom: -66px;left: 0px;height: 129px;}
+.contaus_features a._3rd{background: url("images/what_you_get_start_07_3rd.png") top no-repeat;background-size: 100% auto;bottom: -30px;left: 25px;}
+.contaus_features a.ab{background: url("images/what_you_get_start_06_ab.png") top no-repeat;background-size: 100% auto;bottom: -30px;right: 5px;}
+.contaus_features a.leadalerts{background: url("images/what_you_get_start_05_alerts.png") top no-repeat;background-size: 100% auto;bottom: 5px;right: 5px;}
+
+.contaus_features a.loadforms{background: url("images/what_you_get_start_09_loadforms.png") top no-repeat;background-size: 100% auto;bottom: -30px;right: 5px;}
+
+.contaus_features a.analytics{background: url("images/what_you_get_start_10_analytics.png") top no-repeat;background-size: 100% auto;bottom: -30px;left: 30%;}
+.contaus_features a.customizable{background: url("images/what_you_get_start_11_customizable.png") top no-repeat;background-size: 100% auto;bottom: -40px;right: -50px;}
+
+.contaus_features a.cloud{background: url("images/what_you_get_start_cloud.png") top no-repeat;background-size: 100% auto;bottom: -25px;right: 0px;width: 200%;height:324px;}

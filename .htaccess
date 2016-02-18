@@ -1,0 +1,15 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /paytmbigbo/
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^admin-login/?$ /paytm_page/wp-login.php [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /paytmbigbo/index.php [L]
+</IfModule>
+
+# END WordPress
+
+

@@ -1,0 +1,79 @@
+#main_featured_sliders_page h3 {
+	color: rgb(111, 111, 111); 
+	font-family: Segoe UI;
+	font-size: 30px;
+	margin: 0px;
+	padding: 20px 0px 10px 0px;
+  width: 99%;
+}
+
+#main_featured_sliders_page p {
+  color: rgb(111, 111, 111); 
+	font-family: Segoe UI;
+	font-size: 20px;
+	margin: 0px;
+}
+
+#main_featured_sliders_page #featured-sliders-list {
+	position: relative;
+	width: 95.4%;
+	height: auto;
+	display: table;
+	list-style: none;
+}
+
+#main_featured_sliders_page #featured-sliders-list li {
+	float: left;
+	width: 310px;
+	margin: 10px 30px 20px 0px;
+	height: 242px;
+}
+
+#main_featured_sliders_page #featured-sliders-list li  .product {
+	position:relative;
+	height: 200px;
+	border: 1px solid #DCDCDC;
+	background-size: 100% !important;
+}
+
+#main_featured_sliders_page #featured-sliders-list  li.layer-slider .product {background:url("images/1.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.slider-pro-2  .product {background:url("images/9.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.slide1  .product {background:url("images/8.png") left center no-repeat;  }
+#main_featured_sliders_page #featured-sliders-list  li.news-site-or-blog  .product {background:url("images/7.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.post-feed-demo  .product {background:url("images/6.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.online-store  .product {background:url("images/5.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.portfolio .product {background:url("images/4.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.slide2  .product {background:url("images/3.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.slide3  .product {background:url("images/10.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.slide4 .product {background:url("images/11.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.wordpress-slider-wd-carusel .product {background:url("images/2.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.parallax .product {background:url("images/12.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.hotspot .product {background:url("images/13.png") left center no-repeat;}
+#main_featured_sliders_page #featured-sliders-list  li.video-slider .product {background:url("images/14.png") left center no-repeat;}
+
+#featured-sliders-list li a.download {
+  outline: none;
+  display: inline-block;
+  margin-top: 7px;
+  font-size: 11px;
+  border: 1px solid #DCDCDC;
+  font-weight: bold;
+  background: #FFFFFF url("images/down.png") no-repeat 6px center;
+  color: #66686B;
+  padding: 9px 12px 9px 45px;
+  width: 100%;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  text-decoration: none;
+}
+
+#featured-sliders-list .download span {
+  border-left: 1px solid #A7A9AB;
+  padding: 4px 10px 4px 10px;
+}
+
+#featured-sliders-list .download:hover  {
+  background: #23282D url("images/down_hover.png") no-repeat 6px center;
+  color: #DDDEDE;
+}

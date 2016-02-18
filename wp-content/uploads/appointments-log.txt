@@ -1,0 +1,133 @@
+<b>[December 11, 2015 2:15 pm]</b> Status of Appointment(s) with id(s):5 changed to confirmed by user:ashish
+<b>[December 11, 2015 2:15 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:5
+<b>[December 11, 2015 2:22 pm]</b> Reminder message sent to ashish.singla@polestarllp.com for appointment ID:5
+<b>[December 11, 2015 2:22 pm]</b> Reminder message sent to valentina.burgess@paytm.com for appointment ID:5
+<b>[December 15, 2015 1:11 pm]</b> Confirmation message sent to paromita.kundu@paytm.com for appointment ID:6
+<b>[December 15, 2015 1:12 pm]</b> Status of Appointment(s) with id(s):6 changed to confirmed by user:Paromita
+<b>[December 15, 2015 1:12 pm]</b> Confirmation message sent to paromita.kundu@paytm.com for appointment ID:6
+<b>[December 15, 2015 1:12 pm]</b> Status changed from confirmed to completed by Paromita for appointment ID:6
+<b>[December 15, 2015 1:13 pm]</b> Status changed from completed to paid by Paromita for appointment ID:6
+<b>[December 15, 2015 1:13 pm]</b> Status of Appointment(s) with id(s):6 changed to completed by user:Paromita
+<b>[December 15, 2015 1:20 pm]</b> Status changed from pending to confirmed by Paromita for appointment ID:7
+<b>[December 15, 2015 1:22 pm]</b> Confirmation message sent to priyanka.bhola@paytm.com for appointment ID:7
+<b>[December 15, 2015 1:23 pm]</b> Status of Appointment(s) with id(s):7 changed to paid by user:Paromita
+<b>[December 15, 2015 1:23 pm]</b> Confirmation message sent to priyanka.bhola@paytm.com for appointment ID:7
+<b>[December 15, 2015 1:23 pm]</b> Status changed from paid to completed by Paromita for appointment ID:7
+<b>[December 18, 2015 12:53 pm]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:10
+<b>[December 18, 2015 12:55 pm]</b> Status changed from pending to confirmed by ashish for appointment ID:10
+<b>[December 18, 2015 1:05 pm]</b> Reminder message sent to saurabh.singh@paytm.com for appointment ID:10
+<b>[December 18, 2015 1:39 pm]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:11
+<b>[December 18, 2015 4:21 pm]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:12
+<b>[December 18, 2015 4:24 pm]</b> Status changed from pending to confirmed by ashish for appointment ID:12
+<b>[December 18, 2015 4:26 pm]</b> Confirmation message sent to malhotra.nehul@gmail.com for appointment ID:12
+<b>[December 18, 2015 4:28 pm]</b> Confirmation message sent to malhotra.nehul@gmail.com for appointment ID:12
+<b>[December 18, 2015 4:29 pm]</b> Confirmation message sent to malhotra.nehul@gmail.com for appointment ID:12
+<b>[December 18, 2015 4:29 pm]</b> Status changed from confirmed to completed by ashish for appointment ID:12
+<b>[December 21, 2015 2:30 pm]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:13
+<b>[December 21, 2015 3:04 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[December 21, 2015 3:04 pm]</b> Status changed from removed to confirmed by ashish for appointment ID:13
+<b>[December 21, 2015 3:07 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[December 21, 2015 3:10 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[December 21, 2015 3:23 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:2
+<b>[December 21, 2015 3:23 pm]</b> Status changed from removed to pending by ashish for appointment ID:2
+<b>[December 21, 2015 3:26 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:2
+<b>[December 21, 2015 3:26 pm]</b> Status changed from removed to pending by ashish for appointment ID:2
+<b>[December 21, 2015 4:40 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[December 21, 2015 4:44 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[December 21, 2015 4:45 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[December 21, 2015 5:48 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:5
+<b>[December 21, 2015 5:52 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:5
+<b>[December 21, 2015 5:53 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:5
+<b>[December 21, 2015 5:55 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:5
+<b>[December 21, 2015 5:58 pm]</b> Confirmation message sent to saurabh.singh@paytm.com for appointment ID:10
+<b>[December 21, 2015 5:58 pm]</b> Status changed from completed to confirmed by ashish for appointment ID:10
+<b>[December 21, 2015 5:59 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:5
+<b>[December 21, 2015 5:59 pm]</b> Status changed from completed to confirmed by ashish for appointment ID:5
+<b>[December 21, 2015 6:01 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[December 21, 2015 6:01 pm]</b> Status changed from completed to confirmed by ashish for appointment ID:13
+<b>[December 21, 2015 6:04 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:5
+<b>[December 21, 2015 6:06 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[December 21, 2015 6:10 pm]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:5
+<b>[2015-12-23 14:38]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:14
+<b>[2015-12-23 14:43]</b> Confirmation message sent to Priyanka.bhola@paytm.com for appointment ID:14
+<b>[2015-12-23 14:43]</b> Status changed from pending to confirmed by ashish for appointment ID:14
+<b>[2015-12-23 14:48]</b> Removal notification message sent to Priyanka.bhola@paytm.com for appointment ID:14
+<b>[2015-12-23 14:48]</b> Status changed from confirmed to removed by ashish for appointment ID:14
+<b>[2015-12-23 14:52]</b> Confirmation message sent to Priyanka.bhola@paytm.com for appointment ID:14
+<b>[2015-12-23 14:52]</b> Status changed from removed to pending by ashish for appointment ID:14
+<b>[2015-12-23 14:55]</b> Confirmation message sent to Priyanka.bhola@paytm.com for appointment ID:14
+<b>[2015-12-23 14:55]</b> Status changed from pending to completed by ashish for appointment ID:14
+<b>[2015-12-23 16:20]</b> Confirmation message sent to Priyanka.bhola@paytm.com for appointment ID:14
+<b>[2015-12-23 16:20]</b> Status changed from completed to confirmed by ashish for appointment ID:14
+<b>[2015-12-23 16:26]</b> Reminder message sent to Priyanka.bhola@paytm.com for appointment ID:14
+<b>[2015-12-23 17:53]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:15
+<b>[2015-12-23 17:58]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:16
+<b>[2015-12-23 18:31]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:17
+<b>[2015-12-23 18:40]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:3
+<b>[2015-12-23 18:40]</b> Status changed from removed to confirmed by ashish for appointment ID:3
+<b>[2015-12-23 19:38]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:2
+<b>[2015-12-23 19:38]</b> Status changed from removed to confirmed by ashish for appointment ID:2
+<b>[2015-12-23 19:48]</b> Reminder message sent to ashish.singla@polestarllp.com for appointment ID:2
+<b>[2015-12-23 20:04]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:2
+<b>[2015-12-23 20:10]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:2
+<b>[2015-12-23 20:12]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:2
+<b>[2015-12-24 06:08]</b> Reminder message sent to saurabh.singh@paytm.com for appointment ID:2
+<b>[2015-12-24 09:09]</b> Reminder message sent to saurabh.singh@paytm.com for appointment ID:14
+<b>[2015-12-24 12:16]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[2015-12-24 12:16]</b> Status changed from completed to confirmed by ashish for appointment ID:13
+<b>[2015-12-24 12:18]</b> Complete notification message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[2015-12-24 12:18]</b> Status changed from confirmed to completed by ashish for appointment ID:13
+<b>[2015-12-24 12:31]</b> Removal notification message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[2015-12-24 12:31]</b> Status changed from completed to removed by ashish for appointment ID:13
+<b>[2015-12-24 12:55]</b> Confirmation message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[2015-12-24 12:55]</b> Status changed from removed to confirmed by ashish for appointment ID:13
+<b>[2015-12-24 12:57]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:18
+<b>[2015-12-24 12:58]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:19
+<b>[2015-12-24 12:58]</b> Confirmation message sent to priyanka.bhola@paytm.com for appointment ID:19
+<b>[2015-12-24 12:58]</b> Status changed from pending to confirmed by Paromita for appointment ID:19
+<b>[2015-12-24 12:59]</b> Complete notification message sent to priyanka.bhola@paytm.com for appointment ID:19
+<b>[2015-12-24 12:59]</b> Status changed from confirmed to completed by Paromita for appointment ID:19
+<b>[2015-12-24 13:00]</b> Removal notification message sent to priyanka.bhola@paytm.com for appointment ID:19
+<b>[2015-12-24 13:00]</b> Status changed from completed to removed by Paromita for appointment ID:19
+<b>[2015-12-24 13:11]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:20
+<b>[2015-12-24 13:25]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:21
+<b>[2015-12-24 13:26]</b> Confirmation message sent to nehul.malhotra@paytm.com for appointment ID:21
+<b>[2015-12-24 13:26]</b> Status changed from pending to confirmed by Paromita for appointment ID:21
+<b>[2015-12-24 13:27]</b> Complete notification message sent to nehul.malhotra@paytm.com for appointment ID:21
+<b>[2015-12-24 13:27]</b> Status changed from confirmed to completed by Paromita for appointment ID:21
+<b>[2015-12-24 13:27]</b> Removal notification message sent to nehul.malhotra@paytm.com for appointment ID:21
+<b>[2015-12-24 13:27]</b> Status changed from completed to removed by Paromita for appointment ID:21
+<b>[2015-12-31 20:53]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:22
+<b>[2015-12-31 20:54]</b> Confirmation message sent to paromita.kundu@paytm.com for appointment ID:22
+<b>[2015-12-31 20:54]</b> Status changed from pending to confirmed by ashish for appointment ID:22
+<b>[2015-12-31 20:55]</b> Reminder message sent to paromita.kundu@paytm.com for appointment ID:22
+<b>[2015-12-31 21:01]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:23
+<b>[2016-01-01 07:09]</b> Reminder message sent to paromita.kundu@paytm.com for appointment ID:22
+<b>[2016-01-01 07:09]</b> Reminder message sent to onkar4you@gmail.com for appointment ID:22
+<b>[2016-01-04 14:36]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:24
+<b>[2016-01-04 14:37]</b> Notification message sent to er.ashsingla@gmail.com for appointment ID:25
+<b>[2016-01-04 14:38]</b> Confirmation message sent to priyanka.bhola@paytm.com for appointment ID:25
+<b>[2016-01-04 14:38]</b> Status changed from pending to confirmed by Paromita for appointment ID:25
+<b>[2016-01-04 14:39]</b> Complete notification message sent to priyanka.bhola@paytm.com for appointment ID:25
+<b>[2016-01-04 14:39]</b> Status changed from confirmed to completed by Paromita for appointment ID:25
+<b>[2016-01-04 14:39]</b> Removal notification message sent to priyanka.bhola@paytm.com for appointment ID:25
+<b>[2016-01-04 14:39]</b> Status changed from completed to removed by Paromita for appointment ID:25
+<b>[2016-01-04 15:20]</b> Status of Appointment(s) with id(s):2, 3, 5, 6, 7, 10, 12, 13, 14, 22 changed to removed by user:Paromita
+<b>[2016-01-04 15:20]</b> Removal notification message sent to ashish.singla@polestarllp.com for appointment ID:2
+<b>[2016-01-04 15:20]</b> Removal notification message sent to ashish.singla@polestarllp.com for appointment ID:3
+<b>[2016-01-04 15:20]</b> Removal notification message sent to ashish.singla@polestarllp.com for appointment ID:5
+<b>[2016-01-04 15:20]</b> Removal notification message sent to paromita.kundu@paytm.com for appointment ID:6
+<b>[2016-01-04 15:20]</b> Removal notification message sent to priyanka.bhola@paytm.com for appointment ID:7
+<b>[2016-01-04 15:20]</b> Removal notification message sent to saurabh.singh@paytm.com for appointment ID:10
+<b>[2016-01-04 15:20]</b> Removal notification message sent to malhotra.nehul@gmail.com for appointment ID:12
+<b>[2016-01-04 15:20]</b> Removal notification message sent to ashish.singla@polestarllp.com for appointment ID:13
+<b>[2016-01-04 15:20]</b> Removal notification message sent to Priyanka.bhola@paytm.com for appointment ID:14
+<b>[2016-01-04 15:20]</b> Removal notification message sent to paromita.kundu@paytm.com for appointment ID:22
+<b>[2016-01-04 15:21]</b> Appointment(s) with id(s):25, 23, 22, 21, 20, 19, 18, 17, 16, 15, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 2, 1 deleted by user:Paromita
+<b>[2016-01-04 15:21]</b> Status of Appointment(s) with id(s):24 changed to removed by user:Paromita
+<b>[2016-01-04 15:21]</b> Removal notification message sent to priyanka.bhola@paytm.com for appointment ID:24
+<b>[February 17, 2016 4:44 pm]</b> Confirmation message sent to er.ashsingla@gmail.com for appointment ID:178
+<b>[February 17, 2016 4:47 pm]</b> Status changed from confirmed to pending by admin for appointment ID:178
+<b>[February 17, 2016 4:47 pm]</b> Confirmation message sent to er.ashsingla@gmail.com for appointment ID:178
+<b>[February 17, 2016 4:47 pm]</b> Status changed from pending to confirmed by admin for appointment ID:178
+

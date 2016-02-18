@@ -1,0 +1,194 @@
+@import url(base.css);
+@import url(../fonts/fontello/css/fontello.css);
+
+#cu_plugin-container{
+    background: url(../img/topstripe.png) top repeat-x #fff;
+    padding:20px;
+    max-width: 1300px;
+}
+
+.cu_bluebox{
+    color: #FFF;
+    padding:10px 20px;
+    float: left;
+    margin-top: 10px;
+}
+
+.cu_border-bottom{
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+.control-group {
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+
+.control-label {
+    padding-top: 10px;
+}
+
+.sign-up label {
+    font-size: 17px;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    line-height: 18px;
+    margin-bottom: 0;
+    text-align: left!important;
+}
+
+#menuPanel{
+    margin: 20px 0;
+}
+
+.cu_form-item{
+    padding: 10px;
+    border:1px solid #f0f0f0;
+    border-left: 5px solid #333;
+    border-radius: 2px;
+    margin-bottom: 15px;
+    background-color: #e0e0e0;
+    position: relative;
+}
+
+.cu_form-item.active{
+    border-left: 5px solid #16a766;
+    background-color: #FFF;
+    -webkit-box-shadow: 0px 5px 10px 0px rgba(50, 50, 50, 0.19);
+    -moz-box-shadow:    0px 5px 10px 0px rgba(50, 50, 50, 0.19);
+    box-shadow:         0px 5px 10px 0px rgba(50, 50, 50, 0.19);
+}
+
+.cu_form-item:hover{
+    -webkit-box-shadow: 0px 5px 10px 0px rgba(50, 50, 50, 0.19);
+    -moz-box-shadow:    0px 5px 10px 0px rgba(50, 50, 50, 0.19);
+    box-shadow:         0px 5px 10px 0px rgba(50, 50, 50, 0.19);
+}
+
+
+.scode-box{
+    background-color: #f0f0f0;
+    border:1px solid #ddd;
+    padding: 10px;
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+.scode-box h5{
+    font-weight: bold;
+    font-size: 10px;
+    padding: 0;
+    margin: 0;
+}
+
+.white-menu{
+    /* float: right; */
+    background-color: #FFF;
+    /* border-radius: 5px; */
+    padding: 5px;
+    font-size: 11px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.white-menu .nav-pills>li>a{
+    color: #2f95ca;
+    padding: 8px 15px;
+    background: transparent;
+    border-radius: 0;
+    font-size: 14px;
+}
+
+.white-menu .nav-pills>li>a:hover{
+    background-color: #FFF;
+    color: #555;
+    -webkit-box-shadow: inset 0px -3px 0px 0px rgba(74, 134, 232, 0.75);
+    -moz-box-shadow:    inset 0px -3px 0px 0px rgba(74, 134, 232, 0.75);
+    box-shadow:         inset 0px -3px 0px 0px rgba(74, 134, 232, 0.75);
+}
+
+.place-option{
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+
+.mtop{
+    margin-top: 33px;
+}
+
+#sidebar-cta{
+    text-align: center;
+    font-size: 14px;
+}
+
+#sidebar-cta h3{
+    font-weight: bold;
+}
+
+#sidebar-cta ul > li{
+    padding-bottom: 10px;
+}
+
+#sidebar-cta ul.list{
+    padding: 0 30px 0px 30px;
+    text-align: left;
+    list-style: circle;
+}
+
+#sidebar-cta ul.lb{
+    color:#23C2E1;
+}
+
+#sidebar-cta ul.grn{
+    color:#00B966;
+}
+
+#sidebar-cta ul.org{
+    color:#ED9C28;
+}
+
+#sidebar-cta ul.list > li{
+    font-size: 21px;
+    line-height: 23px;
+}
+
+.btn-review{
+    background-color: #daeaf4;
+    color: #444c52;
+    text-shadow:none;
+    font-weight: bold;
+}
+.btn-review:hover{
+    color: #444c52;
+}
+.btn-review:hover span{
+    text-decoration: underline;
+}
+.btn-review:hover .icon-star{
+    color: #EDC259;
+}
+
+form input:not([type='checkbox']):not([type='radio']) {
+    color: black;
+    font-size: 12px;
+    border-radius: 0px;
+    line-height: 16px;
+    height: 30px;
+    padding-left: 5px;
+    max-width: 100%;
+    width: 100%;
+}
+
+@media screen and (min-width: 900px){
+    .split-inputs .col-sm-7 {
+        margin-left: -15px;
+    }
+
+    .white-menu .nav-pills>li>a {
+        color: #2f95ca;
+        padding: 8px 15px;
+        background: transparent;
+        border-radius: 0;
+    }
+}

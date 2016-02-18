@@ -1,0 +1,63 @@
+.redux-group-menu {
+    background: #505050;
+}
+
+.redux-sidebar .redux-group-menu li a {
+    text-shadow: 0 1px 0 #111111;
+    background-color: #505050;
+    border-bottom: 1px solid #222222;
+    border-top: 1px solid #555555;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2) inset;
+    color: #FFFFFF;
+    margin-bottom: 0;
+    text-shadow: none;
+}
+
+.redux-sidebar .redux-group-menu li a:hover {
+    background-color: #505050;
+    color: #fff;
+    test-shadow: none;
+}
+
+.redux-sidebar .redux-group-tab-link-a i {
+    font-size: 1.8em;
+    line-height: .8em;
+}
+
+.redux-container #redux-footer #redux-share,
+#redux-intro-text i {
+    font-size: 2em;
+}
+
+#redux-intro-text i {
+	line-height: 1em;
+	vertical-align: middle;
+}
+
+#redux-intro-text a {
+	text-decoration: none;
+	margin-right: 15px;
+}
+
+#redux-header {
+    background: #fff !important;
+}
+
+.admin-color-light #redux-header .display_header span {
+	color: #888888;
+	position: relative;
+	bottom: 5px;
+}
+
+.redux-container #redux-header .display_header .redux-dev-mode-notice-container {
+	top: 75px;
+}
+
+
+
+
+
+
+
+
+

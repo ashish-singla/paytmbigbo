@@ -1,0 +1,7 @@
+Mk≈V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3428";s:11:"post_author";s:2:"55";s:9:"post_date";s:19:"2016-01-21 11:12:17";s:13:"post_date_gmt";s:19:"2016-01-21 05:42:17";s:12:"post_content";s:312:"Hi,
+
+I am selling my goods on Paytm for quiet some time now but I feel that the sale numbers have gone stagnant now. Can some one help me in improving my product catalog? As a seller, an advice on how to increase my sales with my existing products can help me to a great extent.
+
+Waiting for a response!
+
+Thanks!";s:10:"post_title";s:36:"How can I improve my product catalog";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:36:"how-can-i-improve-my-product-catalog";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-01-21 11:12:17";s:17:"post_modified_gmt";s:19:"2016-01-21 05:42:17";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:3:"730";s:4:"guid";s:82:"http://localhost:8081/paytmbigbo/forum/topic/how-can-i-improve-my-product-catalog/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:5:"topic";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

@@ -1,0 +1,1 @@
+LkÅV<?php exit; ?>a:1:{s:7:"content";a:3:{s:10:"_edit_last";a:4:{i:0;s:1:"2";i:1;s:1:"2";i:2;s:1:"2";i:3;s:1:"2";}s:13:"_thumbnail_id";a:1:{i:0;s:4:"1222";}s:12:"_sticky_post";a:1:{i:0;s:1:"0";}}}

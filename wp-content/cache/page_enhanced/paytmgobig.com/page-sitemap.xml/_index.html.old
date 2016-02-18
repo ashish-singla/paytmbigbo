@@ -1,0 +1,2076 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//paytmgobig.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://paytmgobig.com</loc>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/sample-page/</loc>
+		<lastmod>2015-10-06T15:34:07+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/seller-stories/</loc>
+		<lastmod>2015-10-12T12:33:05+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/forum/</loc>
+		<lastmod>2015-10-12T13:23:41+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/sign-up-requirements/</loc>
+		<lastmod>2015-12-10T13:37:55+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/11/SUIcon-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/11/SUIcon-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/11/SUIcon-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/order-management-process/</loc>
+		<lastmod>2015-12-10T18:51:57+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Orcer-lifecycle.png</image:loc>
+			<image:caption><![CDATA[Orcer lifecycle]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Order-life-cycle-_updated_7-12-15.jpg</image:loc>
+			<image:caption><![CDATA[Order life cycle  updated 7 12 15]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Return-cycle-new_17-11-151.jpg</image:loc>
+			<image:caption><![CDATA[Return cycle new 17 11 15]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/shipping-logistics/</loc>
+		<lastmod>2015-12-21T16:30:27+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Logistics-Infographics.jpg</image:loc>
+			<image:caption><![CDATA[Logistics Infographics]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sLIcon1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sLIcon2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sLIcon3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sLIcon4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sLIcon5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sLIcon6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sLIcon7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sLIcon8.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/start-promotion/</loc>
+		<lastmod>2015-11-13T04:15:14+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Starting-Promotions.png</image:loc>
+			<image:caption><![CDATA[Starting Promotions]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/listing-product/</loc>
+		<lastmod>2015-11-18T03:23:52+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Listing-Products.png</image:loc>
+			<image:caption><![CDATA[Listing Products]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/processing-orders/</loc>
+		<lastmod>2015-11-18T03:26:28+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Processing-Orders.png</image:loc>
+			<image:caption><![CDATA[Processing Orders]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/tracking-payments/</loc>
+		<lastmod>2015-12-17T15:49:24+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Tracking-Payments.png</image:loc>
+			<image:caption><![CDATA[Tracking Payments]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/getting-started/</loc>
+		<lastmod>2015-11-17T01:14:32+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/commissions/</loc>
+		<lastmod>2015-12-11T15:36:42+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Commissions.png</image:loc>
+			<image:caption><![CDATA[Commissions]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/managing-returns/</loc>
+		<lastmod>2015-11-13T04:19:06+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Managing-Returns.png</image:loc>
+			<image:caption><![CDATA[Managing Returns]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/process-your-first-order/</loc>
+		<lastmod>2015-12-11T15:38:19+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/webinars/</loc>
+		<lastmod>2015-11-13T04:20:12+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Webinars.png</image:loc>
+			<image:caption><![CDATA[Webinars]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/api-documentation/</loc>
+		<lastmod>2015-11-13T04:19:47+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/API-Documentation.png</image:loc>
+			<image:caption><![CDATA[API Documentation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/new-updates/</loc>
+		<lastmod>2015-10-20T16:13:47+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/payouts/</loc>
+		<lastmod>2015-12-09T15:25:00+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Payouts.png</image:loc>
+			<image:caption><![CDATA[Payouts]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/infogr-payouts1.jpg</image:loc>
+			<image:caption><![CDATA[infogr payouts]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/legal-policies/</loc>
+		<lastmod>2015-11-17T23:20:06+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Legal-Policies.png</image:loc>
+			<image:caption><![CDATA[Legal Policies]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/new-updates-2/</loc>
+		<lastmod>2015-10-20T17:15:37+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/penalties/</loc>
+		<lastmod>2015-11-18T01:37:26+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Penalties.png</image:loc>
+			<image:caption><![CDATA[Penalties]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/guidelines-for-content-writing/</loc>
+		<lastmod>2015-11-17T08:06:12+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/merchant-fraud-and-common-mistakes-to-avoid/</loc>
+		<lastmod>2015-11-18T01:49:49+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/MALPRACTICES-COMMON-MISTAKES.png</image:loc>
+			<image:caption><![CDATA[MALPRACTICES &amp; COMMON MISTAKES]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/guidelines-for-photography/</loc>
+		<lastmod>2015-12-17T12:09:50+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/merchant-penalties/</loc>
+		<lastmod>2015-11-18T02:00:39+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Merchant-Penalties.png</image:loc>
+			<image:caption><![CDATA[Merchant Penalties]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/rpc/</loc>
+		<lastmod>2015-12-16T11:32:37+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/modes-of-payments/</loc>
+		<lastmod>2015-12-08T13:16:22+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Payment-Modes.png</image:loc>
+			<image:caption><![CDATA[Payment Modes]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/how-do-i-resolve-the-different-issues-regarding-payments/</loc>
+		<lastmod>2015-10-21T11:32:36+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/marketplace-fee/</loc>
+		<lastmod>2015-10-21T12:04:21+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/payout-calculator/</loc>
+		<lastmod>2015-10-21T12:17:30+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/combo-freebies-related/</loc>
+		<lastmod>2015-11-05T17:29:02+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/inventory-management/</loc>
+		<lastmod>2015-10-21T15:31:46+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/pack-it-smart/</loc>
+		<lastmod>2015-10-21T15:33:57+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/combos-freebies-cataloguing/</loc>
+		<lastmod>2015-11-18T23:25:13+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Combos-Freebies.png</image:loc>
+			<image:caption><![CDATA[Combos &amp; Freebies]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Combo.jpg</image:loc>
+			<image:caption><![CDATA[Combo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/freebie.jpg</image:loc>
+			<image:caption><![CDATA[freebie]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/stages/</loc>
+		<lastmod>2015-12-17T14:44:39+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Stages-in-the-Life-of-an-Order.png</image:loc>
+			<image:caption><![CDATA[Stages in the Life of an Order]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Order-States-Forward-Process.jpg</image:loc>
+			<image:caption><![CDATA[Order States  Forward Process]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Order-States-Reverse-Process.jpg</image:loc>
+			<image:caption><![CDATA[Order States  Reverse Process]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/rto-process-policies/</loc>
+		<lastmod>2015-12-16T11:15:55+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/DTO-RTO.png</image:loc>
+			<image:caption><![CDATA[DTO &amp; RTO]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/cancellation-process/</loc>
+		<lastmod>2015-10-21T16:05:11+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/seed/</loc>
+		<lastmod>2015-12-15T19:14:23+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Consolidation-Centers-SEED.png</image:loc>
+			<image:caption><![CDATA[Consolidation Centers [SEED]]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/LMD-NLMD1.png</image:loc>
+			<image:caption><![CDATA[LMD &amp; NLMD]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/lmd-vs-nlmd/</loc>
+		<lastmod>2015-12-10T18:49:04+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Logistic-Services.png</image:loc>
+			<image:caption><![CDATA[Logistic Services]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/LMD-NLMD2.png</image:loc>
+			<image:caption><![CDATA[LMD &amp; NLMD2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/LMD-NLMD3.png</image:loc>
+			<image:caption><![CDATA[LMD &amp; NLMD3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/paytm-packaging/</loc>
+		<lastmod>2015-12-11T15:22:15+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/logistics-partners/</loc>
+		<lastmod>2015-10-26T13:07:00+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/shipping-fee-calculation/</loc>
+		<lastmod>2015-12-02T13:41:40+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Shipping-Fee-Calculation.png</image:loc>
+			<image:caption><![CDATA[Shipping Fee Calculation]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/ss-vs-nss/</loc>
+		<lastmod>2015-10-26T13:18:05+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/cancellation-process-2/</loc>
+		<lastmod>2015-12-07T15:58:03+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Cancellation-Process.png</image:loc>
+			<image:caption><![CDATA[Cancellation Process]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/cancellation-table_updated-1.jpg</image:loc>
+			<image:caption><![CDATA[cancellation table updated (1)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/cancellation-chart.jpg</image:loc>
+			<image:caption><![CDATA[cancellation chart]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/commonly-used-terms-2/</loc>
+		<lastmod>2015-11-18T03:24:01+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Commonly-Used-Terms.png</image:loc>
+			<image:caption><![CDATA[Commonly Used Terms]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/tagging/</loc>
+		<lastmod>2015-11-18T00:50:57+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Tagging.png</image:loc>
+			<image:caption><![CDATA[Tagging]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/diy-cataloging/</loc>
+		<lastmod>2015-12-07T15:43:08+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/catalogue-template-sheets/</loc>
+		<lastmod>2015-11-06T17:57:27+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/get-started/</loc>
+		<lastmod>2015-12-14T13:59:26+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/getStartedHeaderBanner.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sign-up-now-button-01.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon11.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon12.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon13.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon14.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/icon15.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/getStartedSubHeaderBanner.gif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/paymentIcon.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/customerIcon.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/logisticIcon.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/marketPalceIcon.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/pamentIcon1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sellingProductsIcon.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/categoriesIcon.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/partners/</loc>
+		<lastmod>2015-10-27T11:54:45+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/various-fee/</loc>
+		<lastmod>2015-12-08T13:13:51+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Various-Fees.png</image:loc>
+			<image:caption><![CDATA[Various Fees]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/faqs/</loc>
+		<lastmod>2015-10-28T12:07:39+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/payment-issues/</loc>
+		<lastmod>2015-10-28T12:26:57+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/registration-on-boarding-related/</loc>
+		<lastmod>2015-10-28T12:29:10+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/socialstream/</loc>
+		<lastmod>2015-10-29T14:33:06+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/discussion-forum/</loc>
+		<lastmod>2015-11-05T15:19:16+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/promotions/</loc>
+		<lastmod>2015-12-14T12:41:03+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/11/Promotions.png</image:loc>
+			<image:caption><![CDATA[Promotions]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/11/Online-Recharge-Mobile-Recharge-for-Postpaid-Prepaid-DTH-Datacard-Bill-Payment-at-Paytm.com_.png</image:loc>
+			<image:caption><![CDATA[C1 &amp; S1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/11/11.png</image:loc>
+			<image:caption><![CDATA[Exclusive Deals &amp; Discounts/ Product Rows]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/11/Online-Recharge-Mobile-Recharge-for-Postpaid-Prepaid-DTH-Datacard-Bill-Payment-at-Paytm.com_1.png</image:loc>
+			<image:caption><![CDATA[Featured Store C2s / Category C2s]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/tracking-performance/</loc>
+		<lastmod>2015-11-18T03:31:36+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/getting-started/how-to-register-with-paytm-sign-up-diy/</loc>
+		<lastmod>2015-11-18T03:18:50+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/getting-started/how-to-login/</loc>
+		<lastmod>2015-11-18T03:20:00+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/settings/</loc>
+		<lastmod>2015-11-18T03:20:35+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/best-practices/</loc>
+		<lastmod>2015-11-18T03:21:00+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/adding-new-products-catalogue-diy/</loc>
+		<lastmod>2015-11-18T03:22:31+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/managing-product-listings/</loc>
+		<lastmod>2015-11-18T03:24:17+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/catalogue-social-share/</loc>
+		<lastmod>2015-11-18T03:25:11+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/best-practices-2/</loc>
+		<lastmod>2015-11-18T03:25:29+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/processing-orders-non-lmd/</loc>
+		<lastmod>2015-11-18T03:27:28+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/packaging-guidelines/</loc>
+		<lastmod>2015-12-11T15:27:07+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/best-practices-3/</loc>
+		<lastmod>2015-11-18T03:28:15+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/best-practices-4/</loc>
+		<lastmod>2015-11-18T03:30:21+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/support-ticket/</loc>
+		<lastmod>2015-11-17T23:59:37+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/test/</loc>
+		<lastmod>2015-12-01T12:59:26+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/adding-bulk-products-catalogue-offline-upload/</loc>
+		<lastmod>2015-11-18T00:56:56+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/newsletter/</loc>
+		<lastmod>2015-11-18T00:47:36+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/newsletter-subscription-confirmation/</loc>
+		<lastmod>2015-11-18T00:51:22+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/1562-2/</loc>
+		<lastmod>2015-11-19T05:01:30+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/1565-2/</loc>
+		<lastmod>2015-11-19T05:12:14+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/testing-ninja-forms/</loc>
+		<lastmod>2015-11-24T17:06:47+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/1677-2/</loc>
+		<lastmod>2015-12-10T12:23:24+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/1678-2/</loc>
+		<lastmod>2015-12-10T14:35:55+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/11/Chrysanthemum1-300x225.jpg</image:loc>
+			<image:caption><![CDATA[Chrysanthemum]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/payout-calculator-2/</loc>
+		<lastmod>2015-12-01T13:37:45+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/brand-authorization/</loc>
+		<lastmod>2015-12-07T15:41:56+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/services-offerings/</loc>
+		<lastmod>2015-12-10T16:29:47+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/bookings/</loc>
+		<lastmod>2015-12-11T11:38:47+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/bio1/</loc>
+		<lastmod>2015-12-11T13:16:12+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/11/icona-b.gif</image:loc>
+			<image:caption><![CDATA[Bio1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars3.png</image:loc>
+			<image:caption><![CDATA[rating stars3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/pf-service-1/</loc>
+		<lastmod>2015-12-11T12:59:27+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/tIcon2.jpg</image:loc>
+			<image:caption><![CDATA[PF Service 1]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/feedback/</loc>
+		<lastmod>2015-12-17T18:30:17+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/answers-ajax/</loc>
+		<lastmod>2015-12-17T16:43:46+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/paytm-force-profiles/</loc>
+		<lastmod>2015-12-17T17:00:28+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/onsite-seller-panel-training-service/</loc>
+		<lastmod>2015-12-17T17:10:46+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/managing-account-service/</loc>
+		<lastmod>2015-12-17T17:11:37+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/queryclaim-resolution-service/</loc>
+		<lastmod>2015-12-17T17:12:30+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/e-mail-handling-service/</loc>
+		<lastmod>2015-12-17T17:13:25+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/seller-panel-assistance-service/</loc>
+		<lastmod>2015-12-17T17:14:36+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/filling-catalogue-templates-image-uploads/</loc>
+		<lastmod>2015-12-17T17:15:45+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/catalogue-shoots-service/</loc>
+		<lastmod>2015-12-17T17:17:42+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/catalogue-shoots-image-editing-service/</loc>
+		<lastmod>2015-12-17T17:19:24+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/image-editing-service/</loc>
+		<lastmod>2015-12-17T17:20:15+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/catalogue-content-service/</loc>
+		<lastmod>2015-12-17T17:24:52+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/packaging-orders-service/</loc>
+		<lastmod>2015-12-17T17:25:21+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/help-support/</loc>
+		<lastmod>2015-12-29T12:46:45+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Help-Support.png</image:loc>
+			<image:caption><![CDATA[Help &amp; Support]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/process-and-policies/</loc>
+		<lastmod>2015-12-30T16:04:19+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/ppIcon1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/ppIcon2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/ppIcon3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/ppIcon4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/ppIcon5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/ppIcon6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/ppIcon7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/ppIcon8.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/ppIcon9.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/ppIcon10.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/cataloging-guidelines/</loc>
+		<lastmod>2015-12-29T13:12:00+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/cgIcon1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/cgIcon2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/cgIcon3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/cgIcon4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/cgIcon5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/cgIcon6.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/training/</loc>
+		<lastmod>2015-12-29T12:51:45+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/tIcon1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/tIcon2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/tIcon3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/tIcon4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/tIcon5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/tIcon6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/tIcon7.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/return-policies/</loc>
+		<lastmod>2015-12-30T10:54:33+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Return-Policies1.png</image:loc>
+			<image:caption><![CDATA[Return Policies]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/flow-chart-open-file.jpg</image:loc>
+			<image:caption><![CDATA[flow chart open file]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/21.jpg</image:loc>
+			<image:caption><![CDATA[2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/3.jpg</image:loc>
+			<image:caption><![CDATA[3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/seller-ratings/</loc>
+		<lastmod>2015-12-29T11:46:22+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/10/Seller-rating1.png</image:loc>
+			<image:caption><![CDATA[Seller rating]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Seller-Rating-Infographic.jpg</image:loc>
+			<image:caption><![CDATA[Seller Rating Infographic]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/about-pf/</loc>
+		<lastmod>2016-01-04T16:01:38+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/make-an-appointment/</loc>
+		<lastmod>2016-01-04T22:03:02+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/test-2/</loc>
+		<lastmod>2015-12-21T16:38:47+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Seller-Rating-Infographic.jpg</image:loc>
+			<image:caption><![CDATA[Seller Rating Infographic]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/services-offering/</loc>
+		<lastmod>2016-01-04T19:42:16+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/pf-profile/</loc>
+		<lastmod>2016-01-04T16:14:58+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Arvind-Yadav.jpg</image:loc>
+			<image:caption><![CDATA[Arvind Yadav]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Ravish-Sharma.jpg</image:loc>
+			<image:caption><![CDATA[Ravish Sharma]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Dheeraj-Malhotra.jpg</image:loc>
+			<image:caption><![CDATA[Dheeraj Malhotra]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Sandeep-Choudhary.jpg</image:loc>
+			<image:caption><![CDATA[Sandeep Choudhary]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Abhishek-Sadashiv.jpg</image:loc>
+			<image:caption><![CDATA[Abhishek Sadashiv]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Aman-Tiwari.jpg</image:loc>
+			<image:caption><![CDATA[Aman Tiwari]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Ritesh_-kUMAR-_-lpu.jpg</image:loc>
+			<image:caption><![CDATA[Ritesh  kUMAR   lpu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/varun_pandey.jpg</image:loc>
+			<image:caption><![CDATA[varun pandey]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Suraj_Kj91.jpg</image:loc>
+			<image:caption><![CDATA[Suraj Kj91]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Rajesh_Roy.jpg</image:loc>
+			<image:caption><![CDATA[Rajesh Roy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_vaibhav_nivesh.jpg</image:loc>
+			<image:caption><![CDATA[rsz vaibhav nivesh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Onkar_Verma.jpg</image:loc>
+			<image:caption><![CDATA[Onkar Verma]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Arun-Rajan.jpg</image:loc>
+			<image:caption><![CDATA[Arun Rajan]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/tarun_Saini.png</image:loc>
+			<image:caption><![CDATA[tarun Saini]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Suraj_rsuraj_777.jpg</image:loc>
+			<image:caption><![CDATA[Suraj rsuraj 777]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Mohammad-Sarvar.jpg</image:loc>
+			<image:caption><![CDATA[Mohammad Sarvar]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/AKSHAY-BHARDWAJ.jpg</image:loc>
+			<image:caption><![CDATA[AKSHAY BHARDWAJ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rsz_akshay_goel_1.jpg</image:loc>
+			<image:caption><![CDATA[rsz akshay goel 1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Abhishek-Sadashiv.jpg</image:loc>
+			<image:caption><![CDATA[Abhishek Sadashiv]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Prateek_mehta.jpg</image:loc>
+			<image:caption><![CDATA[Prateek mehta]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Rohit_khanduja.jpg</image:loc>
+			<image:caption><![CDATA[Rohit khanduja]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Kanish-Yadav.jpg</image:loc>
+			<image:caption><![CDATA[Kanish Yadav]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Karan-Madaan.jpg</image:loc>
+			<image:caption><![CDATA[Karan Madaan]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Piue_Tewary.jpg</image:loc>
+			<image:caption><![CDATA[Piue Tewary]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rsz_1rsz_varun_giri.jpg</image:loc>
+			<image:caption><![CDATA[rsz 1rsz varun giri]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/login/</loc>
+		<lastmod>2015-12-22T17:14:50+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/abhishek-sadashiv/</loc>
+		<lastmod>2015-12-31T20:06:02+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Abhishek-Sadashiv.jpg</image:loc>
+			<image:caption><![CDATA[Abhishek Sadashiv]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/arvind-yadav/</loc>
+		<lastmod>2015-12-31T20:07:44+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Arvind-Yadav.jpg</image:loc>
+			<image:caption><![CDATA[Arvind Yadav]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/ravish-sharma/</loc>
+		<lastmod>2015-12-31T20:14:56+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Ravish-Sharma.jpg</image:loc>
+			<image:caption><![CDATA[Ravish Sharma]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/dheeraj-malhotra/</loc>
+		<lastmod>2015-12-31T20:08:20+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/sandeep-choudhary/</loc>
+		<lastmod>2015-12-31T20:16:09+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Sandeep-Choudhary.jpg</image:loc>
+			<image:caption><![CDATA[Sandeep Choudhary]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/suhail-ahmed/</loc>
+		<lastmod>2015-12-31T20:16:48+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/sohail-ahmed.jpg</image:loc>
+			<image:caption><![CDATA[Suhail Ahmed]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/aman-tiwari/</loc>
+		<lastmod>2015-12-31T20:06:57+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/Aman-Tiwari.jpg</image:loc>
+			<image:caption><![CDATA[Aman Tiwari]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/ritesh-kumar/</loc>
+		<lastmod>2015-12-24T17:22:38+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars3.png</image:loc>
+			<image:caption><![CDATA[rating stars3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/varun-pandey/</loc>
+		<lastmod>2015-12-31T20:19:17+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/varun_pandey.jpg</image:loc>
+			<image:caption><![CDATA[Varun Pandey]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/suraj-kumar/</loc>
+		<lastmod>2015-12-31T20:17:59+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/rajesh-kumar-roy/</loc>
+		<lastmod>2015-12-31T20:14:36+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/vaibhav-nivesh/</loc>
+		<lastmod>2015-12-31T20:18:49+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/onkar-kumar-verma/</loc>
+		<lastmod>2015-12-31T20:11:04+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/arun-rajan/</loc>
+		<lastmod>2015-12-31T20:07:22+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/tarun-saini/</loc>
+		<lastmod>2015-12-31T20:18:25+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/suraj-kumarpf006/</loc>
+		<lastmod>2015-12-31T20:17:09+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/mohammad-sarvarpf015/</loc>
+		<lastmod>2015-12-31T20:10:38+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/akshay-bhardwajpf009/</loc>
+		<lastmod>2015-12-31T20:04:55+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/akshay-goel/</loc>
+		<lastmod>2015-12-31T20:06:31+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/prateek-mehta/</loc>
+		<lastmod>2016-01-04T17:45:23+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/rohit-khanduja/</loc>
+		<lastmod>2015-12-31T20:15:22+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/kanish-yadavpf013/</loc>
+		<lastmod>2015-12-31T20:08:51+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/karan-madaan/</loc>
+		<lastmod>2015-12-31T20:09:11+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/piue-tewary/</loc>
+		<lastmod>2015-12-31T20:12:42+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/seller-support/</loc>
+		<lastmod>2015-12-31T12:22:05+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/varun-giri/</loc>
+		<lastmod>2015-12-31T20:29:26+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/2720-2/</loc>
+		<lastmod>2016-01-04T16:31:15+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Divya-Jain.jpg</image:loc>
+			<image:caption><![CDATA[Divya Jain]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/abhishek-bhattacharjee/</loc>
+		<lastmod>2016-01-04T16:22:35+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_1abhishek.jpg</image:loc>
+			<image:caption><![CDATA[Abhishek Bhattacharjee]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/raghavendra-n/</loc>
+		<lastmod>2016-01-04T16:35:09+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Raghavendra-N.jpg</image:loc>
+			<image:caption><![CDATA[Raghavendra N]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/chinthan-yy/</loc>
+		<lastmod>2016-01-04T16:28:05+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_chinthan.jpg</image:loc>
+			<image:caption><![CDATA[Chinthan YY]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/sumit-prakash/</loc>
+		<lastmod>2016-01-04T16:19:05+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/sumit.jpg</image:loc>
+			<image:caption><![CDATA[Sumit Prakash]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/abhinav-kumar-roy/</loc>
+		<lastmod>2016-01-04T16:19:43+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Abhinav-Photo.jpg</image:loc>
+			<image:caption><![CDATA[Abhinav Kumar Roy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/pawan-kumar-saw/</loc>
+		<lastmod>2016-01-04T16:34:13+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/pawanphoto.jpg</image:loc>
+			<image:caption><![CDATA[Pawan Kumar Saw]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/chandar-raj/</loc>
+		<lastmod>2016-01-04T16:25:22+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_chandar_raj_-passport_photo__-_copy.jpg</image:loc>
+			<image:caption><![CDATA[Chandar Raj]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/dilip-kumar/</loc>
+		<lastmod>2016-01-04T16:30:20+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_dilip_photo.jpg</image:loc>
+			<image:caption><![CDATA[Dilip Kumar]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/francis-joseph/</loc>
+		<lastmod>2016-01-04T16:33:02+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_francis_joseph.jpg</image:loc>
+			<image:caption><![CDATA[Francis Joseph]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/bhavik/</loc>
+		<lastmod>2016-01-04T17:05:43+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/bhavik_dedhia.jpg</image:loc>
+			<image:caption><![CDATA[Bhavik]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/nivedita-banerjee/</loc>
+		<lastmod>2016-01-04T17:42:43+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/nivedita_banerjee.jpg</image:loc>
+			<image:caption><![CDATA[Nivedita Banerjee]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/ajinkya/</loc>
+		<lastmod>2016-01-04T17:00:42+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_ajinkya_sonawane.jpg</image:loc>
+			<image:caption><![CDATA[Ajinkya]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/jayesh/</loc>
+		<lastmod>2016-01-04T17:09:33+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/jayesh_chandnani_1.jpg</image:loc>
+			<image:caption><![CDATA[Jayesh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/pratik-savla/</loc>
+		<lastmod>2016-01-04T17:47:57+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/pratiksavla.jpg</image:loc>
+			<image:caption><![CDATA[Pratik Savla]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/nikhil-kodappully/</loc>
+		<lastmod>2016-01-04T17:40:11+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/nikhilkodappully1.jpg</image:loc>
+			<image:caption><![CDATA[Nikhil Kodappully]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/pratik-worlikar/</loc>
+		<lastmod>2016-01-04T17:49:38+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/pratikworlikar1.jpg</image:loc>
+			<image:caption><![CDATA[Pratik Worlikar]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/prem-raut/</loc>
+		<lastmod>2016-01-04T17:50:27+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/premraut1.jpg</image:loc>
+			<image:caption><![CDATA[Prem Raut]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/akshay-papadkar/</loc>
+		<lastmod>2016-01-04T17:01:38+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_akshaypapadkar1.jpg</image:loc>
+			<image:caption><![CDATA[Akshay Papadkar]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/nikhil-patil/</loc>
+		<lastmod>2016-01-04T17:40:55+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/nikhilpatil1.jpg</image:loc>
+			<image:caption><![CDATA[Nikhil Patil]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/sonraj-gaonkar/</loc>
+		<lastmod>2016-01-04T17:54:08+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/sonraj_gaonkar.jpg</image:loc>
+			<image:caption><![CDATA[Sonraj Gaonkar]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/ankit-gawde/</loc>
+		<lastmod>2016-01-04T17:05:03+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/ankit_gawde.jpg</image:loc>
+			<image:caption><![CDATA[Ankit Gawde]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/rupesh-jagtap/</loc>
+		<lastmod>2016-01-04T17:53:19+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rupesh_jagtap.jpg</image:loc>
+			<image:caption><![CDATA[Rupesh Jagtap]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/harshal/</loc>
+		<lastmod>2016-01-04T17:06:19+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/harshal_desai.jpg</image:loc>
+			<image:caption><![CDATA[Harshal]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/hemant-perka/</loc>
+		<lastmod>2016-01-04T17:07:25+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/hemant_perka.jpg</image:loc>
+			<image:caption><![CDATA[Hemant Perka]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/pratek-jain/</loc>
+		<lastmod>2016-01-04T17:46:49+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/prateek_jain1.jpg</image:loc>
+			<image:caption><![CDATA[Prateek Jain]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/rehan-darbari/</loc>
+		<lastmod>2016-01-04T17:51:05+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rehan_darbari.jpg</image:loc>
+			<image:caption><![CDATA[Rehan Darbari]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/riddhi-sonigara/</loc>
+		<lastmod>2016-01-04T17:51:56+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/riddhisonigara.jpg</image:loc>
+			<image:caption><![CDATA[Riddhi Sonigara]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/rima-jethmalani/</loc>
+		<lastmod>2016-01-04T17:52:48+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rima_jethmalani.jpg</image:loc>
+			<image:caption><![CDATA[Rima Jethmalani]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/laima-tellis/</loc>
+		<lastmod>2016-01-04T17:10:30+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/laimatellis1.jpg</image:loc>
+			<image:caption><![CDATA[Laima Tellis]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/banglore/</loc>
+		<lastmod>2016-01-04T18:25:55+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Abhinav-Photo.jpg</image:loc>
+			<image:caption><![CDATA[Abhinav Photo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_1abhishek.jpg</image:loc>
+			<image:caption><![CDATA[rsz 1abhishek]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_chandar_raj_-passport_photo__-_copy.jpg</image:loc>
+			<image:caption><![CDATA[rsz chandar raj  passport photo    copy]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_chinthan.jpg</image:loc>
+			<image:caption><![CDATA[rsz chinthan]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_dilip_photo.jpg</image:loc>
+			<image:caption><![CDATA[rsz dilip photo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Divya-Jain.jpg</image:loc>
+			<image:caption><![CDATA[Divya Jain]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/rsz_francis_joseph.jpg</image:loc>
+			<image:caption><![CDATA[rsz francis joseph]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/pawanphoto.jpg</image:loc>
+			<image:caption><![CDATA[pawanphoto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/Raghavendra-N.jpg</image:loc>
+			<image:caption><![CDATA[Raghavendra N]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2016/01/sumit.jpg</image:loc>
+			<image:caption><![CDATA[sumit]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://paytmgobig.com/wp-content/uploads/2015/12/rating_stars2.png</image:loc>
+			<image:caption><![CDATA[rating stars2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://paytmgobig.com/test-3/</loc>
+		<lastmod>2016-01-04T20:33:50+05:30</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 5/191 queries in 0.098 seconds using disk
+Object Caching 5951/7255 objects using disk
+Content Delivery Network via N/A
+Application Monitoring using New Relic
+
+ Served from: paytmgobig.com @ 2016-01-05 09:26:34 by W3 Total Cache -->

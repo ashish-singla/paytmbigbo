@@ -1,0 +1,25 @@
+/** Image Banner Widget Admin Styles */
+.ibw-thumb{ background:url('transparent.png') top left repeat; overflow:hidden; height:auto; position:relative; border:1px solid #999; font-size:18px; font-weight:bold; text-align:center; color:#fff; text-shadow:#333 0px 1px 1px; }
+.ibw-thumb img{
+	max-width: 90%;
+	max-height: 130px;
+	margin: 6px;
+	box-shadow: rgba(0,0,0,0.7) 0px 2px 6px;
+}
+.ibw-overlay{ position:absolute; top:50px; left:78px; opacity: 0.7; }
+
+div.ibw-advanced-options{
+	padding:5px;
+	padding-top:13px;
+}
+
+.widget-content small{color:#999;}
+
+a.help-link{ font-family: Verdana, Arial, sans-serif; font-size:10px; color:#999; cursor:help; }
+#widget-list .image-banner-widget .widget-top { border-color: #F90; }
+#widgets-right .image-banner-widget{ border-color:#f90; }
+
+.upload-button-wrap{ text-align:right; }
+
+.expander{ color:#27d; cursor:pointer; }
+.ibw-advanced-options{ border:1px solid #ddd; }

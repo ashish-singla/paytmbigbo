@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Insert or Embed Articulate Content into Wordpress "
+"Premium\n"
+"POT-Creation-Date: 2015-07-07 21:05-0500\n"
+"PO-Revision-Date: 2015-07-07 21:05-0500\n"
+"Last-Translator: Anthony Brown <support@smartypantsplugins.com>\n"
+"Language-Team: Brian Batt\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin_page.php:109 ../functions.php:1022
+msgid "The requested content cannot be loaded. Please try again later."
+msgstr ""
+
+#: ../admin_page.php:158
+msgid "Insert or Embed Articulate Content into Wordpress"
+msgstr ""
+
+#: ../admin_page.php:164
+msgid "Lightbox Style"
+msgstr ""
+
+#: ../admin_page.php:166
+msgid "Color Box"
+msgstr ""
+
+#: ../admin_page.php:167
+msgid "Nivo Lightbox"
+msgstr ""
+
+#: ../admin_page.php:169
+msgid "Lightbox Settings"
+msgstr ""
+
+#: ../admin_page.php:171
+msgid "Transition"
+msgstr ""
+
+#: ../admin_page.php:173
+msgid "Elastic"
+msgstr ""
+
+#: ../admin_page.php:174 ../admin_page.php:191
+msgid "Fade"
+msgstr ""
+
+#: ../admin_page.php:175
+msgid "None"
+msgstr ""
+
+#: ../admin_page.php:178 ../admin_page.php:200 ../functions.php:111
+msgid "Theme"
+msgstr ""
+
+#: ../admin_page.php:189
+msgid "Effect"
+msgstr ""
+
+#: ../admin_page.php:192
+msgid "FadeScale"
+msgstr ""
+
+#: ../admin_page.php:193
+msgid "SlideLeft"
+msgstr ""
+
+#: ../admin_page.php:194
+msgid "SlideRight"
+msgstr ""
+
+#: ../admin_page.php:195
+msgid "SlideUp"
+msgstr ""
+
+#: ../admin_page.php:196
+msgid "SlideDown"
+msgstr ""
+
+#: ../admin_page.php:197
+msgid "Fall"
+msgstr ""
+
+#: ../admin_page.php:202 ../admin_page.php:208 ../functions.php:1038
+msgid "Default"
+msgstr ""
+
+#: ../admin_page.php:207 ../functions.php:122
+msgid "Size Options"
+msgstr ""
+
+#: ../admin_page.php:209
+msgid "Custom"
+msgstr ""
+
+#: ../admin_page.php:211 ../functions.php:130
+msgid "Height"
+msgstr ""
+
+#: ../admin_page.php:212 ../functions.php:131
+msgid "Width"
+msgstr ""
+
+#: ../admin_page.php:217
+msgid "Preview Lightbox"
+msgstr ""
+
+#: ../admin_page.php:218 ../admin_page.php:237
+msgid "Save"
+msgstr ""
+
+#: ../admin_page.php:222
+msgid "Custom Buttons"
+msgstr ""
+
+#: ../admin_page.php:232
+msgid "Select Image"
+msgstr ""
+
+#: ../admin_page.php:236
+msgid "Add Button"
+msgstr ""
+
+#: ../functions.php:76 ../functions.php:170
+msgid "Media Library"
+msgstr ""
+
+#: ../functions.php:76
+msgid "Title"
+msgstr ""
+
+#: ../functions.php:78
+msgid "Insert As"
+msgstr ""
+
+#: ../functions.php:80
+msgid "iFrame"
+msgstr ""
+
+#: ../functions.php:81
+msgid "Lightbox"
+msgstr ""
+
+#: ../functions.php:82
+msgid "Link that opens in a new window"
+msgstr ""
+
+#: ../functions.php:83
+msgid "Link that opens in the same window"
+msgstr ""
+
+#: ../functions.php:86
+msgid "Lightbox options"
+msgstr ""
+
+#: ../functions.php:87
+msgid "With Title"
+msgstr ""
+
+#: ../functions.php:88
+msgid "No Title"
+msgstr ""
+
+#: ../functions.php:90
+msgid "More Lightbox options"
+msgstr ""
+
+#: ../functions.php:91 ../functions.php:139 ../functions.php:145
+msgid "Link Text"
+msgstr ""
+
+#: ../functions.php:92
+msgid "Use \"Launch Presentation\" button"
+msgstr ""
+
+#: ../functions.php:93
+msgid "Use custom image"
+msgstr ""
+
+#: ../functions.php:97
+msgid "Select Button"
+msgstr ""
+
+#: ../functions.php:105
+msgid "Scrollbar options"
+msgstr ""
+
+#: ../functions.php:106
+msgid "Default - display if needed"
+msgstr ""
+
+#: ../functions.php:107
+msgid "Disabled"
+msgstr ""
+
+#: ../functions.php:113
+msgid "Default From Dashboard"
+msgstr ""
+
+#: ../functions.php:124
+msgid "Lightbox Default"
+msgstr ""
+
+#: ../functions.php:125
+msgid "Custom from dashboard"
+msgstr ""
+
+#: ../functions.php:126
+msgid "Custom for this item"
+msgstr ""
+
+#: ../functions.php:138
+msgid "Link that opens in a new window options"
+msgstr ""
+
+#: ../functions.php:140 ../functions.php:146
+msgid "Use 'Launch Presentation' button"
+msgstr ""
+
+#: ../functions.php:144
+msgid "Link that opens in  same window options"
+msgstr ""
+
+#: ../functions.php:154 ../functions.php:200
+msgid "Delete"
+msgstr ""
+
+#: ../functions.php:182
+#, php-format
+msgid "Showing Content %s - %s of %s"
+msgstr ""
+
+#: ../functions.php:199
+msgid "Show"
+msgstr ""
+
+#: ../functions.php:215
+msgid "no directories available"
+msgstr ""
+
+#: ../functions.php:311
+msgid ""
+"Probably the uploaded file is larger than your server allows. Contact your "
+"hosting provider to increase the size."
+msgstr ""
+
+#: ../functions.php:342
+msgid "Please choose a file to upload"
+msgstr ""
+
+#: ../functions.php:347
+msgid "Please choose a zip archive"
+msgstr ""
+
+#: ../functions.php:348
+msgid ""
+"The selected file is larger than your server allows. Contact your hosting "
+"provider to increase the size."
+msgstr ""
+
+#: ../functions.php:678
+msgid "Loading"
+msgstr ""
+
+#: ../functions.php:678
+msgid "Saving...."
+msgstr ""
+
+#: ../functions.php:706
+msgid "Deleting.."
+msgstr ""
+
+#: ../functions.php:707
+msgid "Deleting...."
+msgstr ""
+
+#: ../functions.php:712
+msgid "Are you sure?"
+msgstr ""
+
+#: ../functions.php:731
+msgid "No Data Found To Delete"
+msgstr ""
+
+#: ../functions.php:767
+msgid "Choose a file to upload"
+msgstr ""
+
+#: ../functions.php:768 ../quiz.php:58 ../quiz.php:98
+msgid "Upload File"
+msgstr ""
+
+#: ../functions.php:772
+msgid ""
+"Please choose a .zip file that you published with the Articulate software | "
+"Maximum upload file size"
+msgstr ""
+
+#: ../functions.php:780
+msgid "Need help?  See the screencast below"
+msgstr ""
+
+#: ../functions.php:831 ../functions.php:837
+msgid "Failed: New Title Was Not Given"
+msgstr ""
+
+#: ../functions.php:843
+msgid "Failed: Given File is Not Exits"
+msgstr ""
+
+#: ../functions.php:849
+msgid "Failed: Targeted Directory Name Was Not Given"
+msgstr ""
+
+#: ../functions.php:898
+msgid "the file must be zip archive"
+msgstr ""
+
+#: ../functions.php:913
+msgid ""
+"The uploaded file is larger than your server allows. Contact your hosting "
+"provider to increase the size."
+msgstr ""
+
+#: ../functions.php:937
+msgid "file upload failed"
+msgstr ""
+
+#: ../functions.php:1039
+msgid "Vintage"
+msgstr ""
+
+#: ../functions.php:1040
+msgid "Dark Rimmed"
+msgstr ""
+
+#: ../functions.php:1041
+msgid "Fancy Overlay"
+msgstr ""
+
+#: ../functions.php:1042
+msgid "Minimal"
+msgstr ""
+
+#: ../functions.php:1043
+msgid "Minimal Circles"
+msgstr ""
+
+#: ../functions.php:1044
+msgid "Sketch / Toon"
+msgstr ""
+
+#: ../functions.php:1045
+msgid "No Image"
+msgstr ""
+
+#: ../functions.php:1046
+msgid "No Image Rounded"
+msgstr ""
+
+#: ../functions.php:1047
+msgid "No Image Blue"
+msgstr ""
+
+#: ../functions.php:1048
+msgid "No Image Polaroid"
+msgstr ""
+
+#: ../functions.php:1049
+msgid "Shadow"
+msgstr ""
+
+#: ../functions.php:1050
+msgid "Wood Table"
+msgstr ""
+
+#: ../functions.php:1063
+msgid "Select an Image"
+msgstr ""
+
+#: ../functions.php:1064
+msgid "Use this Image"
+msgstr ""
+
+#: ../quiz.php:67 ../quiz.php:99
+msgid "Content Library"
+msgstr ""
+
+#: ../include/shortcode.php:13 ../include/shortcode.php:17
+msgid "Launch Presentation"
+msgstr ""

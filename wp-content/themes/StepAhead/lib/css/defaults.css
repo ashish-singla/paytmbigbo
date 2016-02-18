@@ -1,0 +1,324 @@
+/**
+* GENERAL 
+----------------------------*/
+
+body {
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 13px;
+}
+
+#container:after, #header:after, #main:after, #main-fullwidth:after, #footer:after, .clearfix:after { 
+    content:"\0020"; display:block; height:0; clear:both; visibility:hidden; overflow:hidden; 
+}
+
+#container, #header, #main, #main-fullwidth, #footer, .clearfix { display:block;  }
+
+.clear {clear:both;}
+
+/* Headings */
+
+h1,h2,h3,h4,h5,h6 { 
+    font-weight: normal;
+    margin-bottom: 16px;
+    line-height: 1;
+    
+}
+
+h1 { font-size: 40px; }
+
+h2 { font-size: 30px; }
+
+h3 { font-size: 20px; width:100%; }
+
+h4 { font-size: 16px; }
+
+h5 { font-size: 14px; }
+
+h6 { font-size: 12px; }
+
+h1 img, h2 img, h3 img, h4 img, h5 img, h6 img { margin:0; }
+
+/* Paragraps */
+
+p { margin:0 0 20px 0;}
+
+/* Tables */
+
+table { 
+    margin-bottom: 20px;
+    width:100%;
+}
+
+th { font-weight: bold; }
+thead th { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+tr.even td { background: #e5ecf9; }
+tfoot { font-style: italic; }
+caption { background: #eee; }
+
+/* Lists */
+
+li ul, li ol { margin: 0; }
+ul, ol { 
+    margin: 0 20px 20px 0;
+    padding-left: 40px;
+}
+
+ul { list-style-type: disc; }
+ol { list-style-type: decimal; }
+
+dl { margin: 0 0 20px 0; }
+dl dt { font-weight: bold; }
+dd { margin-left: 20px;}
+
+/* Misc */
+
+blockquote  { 	
+    margin: 20px;
+    color: #666;
+    font-style: italic;
+}
+
+pre { 
+    margin: 20px 0;
+    white-space: pre;
+}
+
+pre,code,tt { 
+    font: 13px 'andale mono', 'lucida console', monospace;
+    line-height: 18px;
+}
+
+/**
+* MNEUS 
+----------------------------*/
+
+.menus, .menus * {
+    margin:	0;
+    padding: 0;
+    list-style:	none;
+    list-style-type: none;
+    line-height: 1.0;
+}
+
+.menus ul {
+    position: absolute;
+    top: -999em;
+    width: 100%;
+}
+
+.menus ul li {
+    width: 100%;
+}
+
+.menus li:hover {
+    visibility:	inherit;
+}
+
+.menus li {
+    float: left;
+    position: relative;
+}
+
+.menus a {
+    display: block;
+    position: relative;
+}
+
+.menus li:hover ul,
+.menus li.sfHover ul {
+    left: 0;
+    top: 100%; /* match top ul list item height */
+    z-index: 99;
+}
+
+.menus li:hover li ul,
+.menus li.sfHover li ul {
+    top: -999em;
+}
+
+.menus li li:hover ul,
+.menus li li.sfHover ul {
+    left: 100%; /* match ul width */
+    top: 0;
+}
+
+.menus li li:hover li ul,
+.menus li li.sfHover li ul {
+    top: -999em;
+}
+
+.menus li li li:hover ul,
+.menus li li li.sfHover ul {
+    left: 100%; /* match ul width */
+    top: 0;
+}
+
+
+/* Shadows */
+
+.sf-shadow ul {
+    padding: 0 8px 9px 0;
+    -moz-border-radius-bottomleft: 17px;
+    -moz-border-radius-topright: 17px;
+    -webkit-border-top-right-radius: 17px;
+    -webkit-border-bottom-left-radius: 17px;
+}
+
+.menus .sf-shadow ul.sf-shadow-off {
+    background: transparent;
+}
+
+/**
+* Some Default and WP required styles.
+-------------------------------------------------------------- */
+
+blockquote {
+    overflow: hidden;
+    padding-left: 9px;
+    font-style: italic;
+    color: #666;
+    border-left: 3px solid #CADAE7;
+}
+
+img.wp-smiley {
+    max-height: 12px;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alignleft {
+    float: left;
+    padding-bottom: 15px;
+}
+
+.alignright {
+    float: right;
+}
+
+.wp-caption {
+    background: #eee;
+    border: 1px solid #ddd;
+    text-align: center;
+    padding-top: 4px;
+    margin: 10px;
+    /* optional rounded corners for browsers that support it */
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.wp-caption img {
+    margin: 0;
+    padding: 0;
+    border: 0 none;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    padding: 0 4px 5px;
+    margin: 0;
+}
+
+.gallery-caption {
+}
+
+.sticky {
+}
+
+/**
+* Add padding to images in the posts
+----------------------------*/
+
+.post img.alignleft {
+   margin: 0 0px 0px 0px;
+    
+}
+
+.post img.alignright {
+    margin: 0 0 10px 10px;
+}
+
+.post img.aligncenter {
+    margin-bottom: 10px;
+}
+
+/**
+* Wp Calendar
+----------------------------*/
+
+#wp-calendar {
+    empty-cells: show;
+    font-family: Arial, Helvetica, Sans-serif;
+    margin: 0;
+    font-weight: normal;
+    width: 100%;
+    border-spacing: 1px;
+    border-collapse: separate;
+}
+
+#wp-calendar caption {
+    padding: 4px 0;
+    text-transform: uppercase;  
+    margin: 2px 0 2px 0;
+    text-align: left;
+    background: none;
+}
+
+#wp-calendar th {
+    font-style: normal;
+    text-transform: capitalize;
+    background: none;
+}
+
+#wp-calendar td {
+    font-family: Arial, Helvetica, Sans-serif;
+    letter-spacing: normal;
+    padding: 4px 0;
+    text-align: center;
+    background: none;
+}
+
+.error {
+	text-align: center;
+	color: #fff;
+    font-weight: bold;
+	background: Red;
+	padding: 8px;
+    font-size: 12px;
+	margin: 0 0 10px 0;
+}
+
+.message {
+	text-align: center;
+	color: #fff;
+    font-weight: bold;
+	background: Green;
+	padding: 8px;
+    font-size: 12px;
+	margin: 0 0 10px 0;
+}
+
+/* Some General Formattings ----------- */
+
+embed,
+img,
+object,
+video,
+.wp-caption {
+	max-width: 100%;
+}
+
+img {
+	height: auto;
+}

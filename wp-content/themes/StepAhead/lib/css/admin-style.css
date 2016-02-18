@@ -1,0 +1,407 @@
+/**
+* Themater Admin Panel Style
+*/
+
+
+.tt-wrap {
+    width: 810px;
+    border:  1px solid #fff;
+    background: #e1e1e1;
+    padding: 1px;
+    margin-bottom: 15px;
+}
+
+.tt-container {
+    border:  1px solid #fff;
+    width: 808px;
+    background: #fff url(../images/bg.png) left top repeat-y;
+    display:block;
+}
+
+.tt-container:after {
+    content:"\0020";
+    display:block;
+    height:0;
+    clear:both;
+    visibility:hidden;
+    overflow:hidden;
+}
+
+.tt-sidebar {
+    width: 172px;
+    float:left;
+    margin-bottom: 15px;
+}
+
+
+.tt-content {
+    width: 606px;
+    float:left;
+    padding:10px 15px;
+    background: #fff;
+}
+
+
+/****************/
+.tt-themename, .tt-themename a {
+    font-style: normal;
+    font-size: 18px;
+    color: #333;
+    font-family: Arial, Helvetica, Sans-serif;
+    text-decoration: none;
+}
+
+.tt-menu-wrap {
+    margin: 0;
+    padding: 0;
+}
+
+.tt-menu {
+    list-style: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.tt-menu li {
+    list-style: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: url(../images/menu-bg.png) left top repeat-x;
+}
+
+.tt-menu li:hover {
+    background: url(../images/menu-bg.png) left -140px repeat-x;
+}
+
+.tt-menu a {
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size:14px;
+    line-height: 14px;
+    font-weight:normal;
+    color: #555;
+    background: url(../images/menu-icons.png) 9px 12px no-repeat;
+    padding:10px 4px 10px 22px;
+    margin:0;
+    display:block;
+    text-decoration:none;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #dddddd;
+    text-shadow:0 1px 0 #FFFFFF;    
+}
+
+.tt-menu li:first-child a {
+    border-top: none;
+}
+
+.tt-menu .tt-menu-active a {
+    background: url(../images/menu-icons.png) 9px -98px no-repeat;
+    color: #fff;
+    text-shadow:0 1px 0 #333;
+}
+
+.tt-menu li.tt-menu-active {
+    background: url(../images/menu-bg.png) left -280px repeat-x;
+}
+
+.tt-menu-content {
+    display: none;    
+    background: #fff;
+}
+
+.tt-menu-content-first {
+    display: block;    
+}
+
+
+/****************/
+
+.tt-form-element {
+    margin-bottom: 20px;
+}
+
+input.tt-text, textarea.tt-textarea {
+    background: #f7f6f6;   
+    padding: 5px; 
+    border-top: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+    width: 100%;
+}
+
+select.tt-select {
+    min-width: 260px;    
+    background: #f7f6f6;   
+    border-top: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+    width: expression(this.clientWidth < 260 ? '260px':true);
+    padding: 6px;
+    height: auto !important;
+}
+
+input.tt-text:focus, textarea.tt-textarea:focus, select.tt-select:focus {
+    background: #fff;    
+}
+    
+input.tt-checkbox {
+    
+}
+
+input.tt-radio {
+    
+}
+
+.tt-element-content {
+    
+}
+
+.tt-form-label {
+    color: #555;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+    padding: 0 0 8px 0;
+    margin-bottom: 10px;
+}
+
+.tt-help {
+    float: right;
+    margin-top: 4px;
+    opacity:0.3; 
+    filter:alpha(opacity=30);
+}
+
+.tt-help:hover {
+    opacity:1; 
+    filter:alpha(opacity=100);
+}
+
+.tt-extended-help, .tt-extended-top-help {
+    font-family: Arial, Helvetica, Sans-serif;
+    color: #777;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: italic;
+    
+}
+
+.tt-extended-help {
+    padding-top: 8px;
+}
+
+.tt-extended-top-help {
+    padding-bottom: 8px;
+}
+
+.tt-inline-label {
+    width: 25%;
+    padding:0!important;
+    color: #777;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.tt-inline-content {
+    width: 75%;
+    padding: 0 0 0 6px !important;
+}
+
+.tt-inline-help {
+    font-family: Arial, Helvetica, Sans-serif;
+    color: #777;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: italic;
+    padding-top: 6px;
+}
+
+.tt-inline-label2 {
+    width: 25%;
+    padding:0 !important;
+    color: #777;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.tt-inline-content2 {
+    width: 75%;
+    padding: 0 8px 0 0 !important;
+}
+
+.tt-inline-help2 {
+    font-family: Arial, Helvetica, Sans-serif;
+    color: #999;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.tt-show-help {
+    font-family: Arial, Helvetica, Sans-serif;
+    color: #333;
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 6px;
+    display: none;
+    font-weight: normal;
+    padding: 6px;
+    background: #fdfac5;
+}
+
+.tt_imageupload, .tt_imageupload_reset {
+    padding: 4px 16px !important;
+}
+
+.tt-image-preview {
+    padding:10px 0;
+    width: 300px;
+}
+
+
+.tt-image-preview img {
+    max-width: 440px;
+    width: expression(this.width > 440 ? 440: true);
+}
+
+.tt-error {
+    background-color:#FFEBE8;
+    border:1px solid #CC0000;
+    padding: 6px;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.tt-success {
+    background:#E6EFC2;
+    color:#000;
+    border:1px solid #C6D880;
+    padding: 6px;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.tt-notice {
+    background:#FFFFE0;
+    color:#000;
+    border:1px solid #E6DB55;
+    padding: 6px;
+    margin-bottom: 10px;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.tt-image-preview span {
+    padding-top: 10px !important;
+    font-size: 11px;
+    color: #999 !important;
+    font-style: italic;
+}
+
+.tt-button-red {
+    background: #FFEBE8 !important;
+    border:1px solid #CC0000 !important;
+    text-shadow: 0 1px 0 #fff !important;   
+    color: #CC0000 !important; 
+}
+
+.tt-credits {
+    color: #666;
+    text-align: center;
+    font-size: 11px;
+    padding: 10px 0;
+    border-top: 1px solid #ccc;
+    width: 812px;
+}
+
+.tt-credits a {
+    color: #666;
+    text-decoration: underline;
+}
+
+.tt-credits a:hover {
+    text-decoration: none;
+}
+
+.tt-widget {
+    margin-bottom: 20px;
+}
+
+.tt-widget-title {
+    color: #555;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+    padding: 0 0 8px 0;
+    margin-bottom: 10px;
+}
+
+.tt-widget-label {
+    color: #111;
+    padding:5px 0 5px 0 !important;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 13px;
+}
+
+.tt-widget-content {
+    color: #555;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 12px;
+    padding: 5px 0 5px 6px !important;
+}
+
+.tt-widget-help {
+    font-style: italic; color: #777; font-size: 11px;
+}
+
+.tt-clearfix:after {content:"\0020";display:block;height:0;clear:both;visibility:hidden;overflow:hidden;}
+.tt-clearfix{display:block;}
+
+.tt_radio_button_container {
+    display: inline;
+}
+
+.tt_radio_button_container input {
+    display: none ;
+}
+
+.tt_radio_button { 
+    padding: 4px 6px 4px 24px; 
+    border: 1px solid #ddd; 
+    background: #fff url(../images/radio_button_check.png) 5px center no-repeat; 
+    margin-right: 4px;
+    display: inline-block;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 13px;
+    color: #333;
+    text-decoration: none;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+} 
+
+.tt_radio_button_current, .tt_radio_button:hover, .tt_radio_button:focus { 
+    color: #333;
+    text-decoration: none;
+    border: 1px solid #ccc; 
+    background: #eee url(../images/radio_button_check_current.png) 5px center no-repeat; 
+}
+
+.tt-hidden {
+    display: none;
+}
+
+.tt-link {
+    cursor: pointer;
+}

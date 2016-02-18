@@ -1,0 +1,62 @@
+/* CSS For WPCommentCleaner Admin Page */
+#WPCommentCleaner{
+	width:640px;
+	border:2px solid #CCFF33;
+	padding:20px;
+	font-family:myriad pro;
+	border-radius:15px;
+	border-top-left-radius:0;
+	-moz-border-radius:15px;
+	-moz-border-top-left-radius:0;
+	-webkit-border-radius:15px;
+	-webkit-border-top-left-radius:0;
+}
+.WPCommentCleanerHeading{
+	background-color:#ADD900;
+	margin:20px 0 0 0;
+	width:250px;
+	border:solid #ccff33;
+	border-width:2px 2px 0px 2px;
+	line-height:1.6em;
+	color:#fff;
+	padding:5px 25px;
+	font-family:myriad pro;
+	font-size:2em;
+	border-radius:12px;
+	border-bottom-left-radius:0;
+	border-bottom-right-radius:0;
+	-moz-border-radius:12px;
+	-moz-border-bottom-left-radius:0;
+	-moz-border-bottom-right-radius:0;
+	-webkit-border-radius:12px;
+	-webkit-border-bottom-left-radius:0;
+	-webkit-border-bottom-right-radius:0;
+}
+#WPCommentCleaner table{
+	border-spacing:0;
+	margin:auto;
+	box-shadow:0 0 4px #ccff00;
+}
+#WPCommentCleaner table th,#WPCommentCleaner table td{
+	font-size:1.4em;
+	border:1px solid #ccff99;
+	padding:10px 20px;
+}
+#WPCommentCleaner table td{
+	border:1px solid #ddd;
+}
+#WPCommentCleaner table th.nopadding,#WPCommentCleaner table td.nopadding{
+	padding:0;
+}
+#WPCommentCleaner .WPCommentCleanerInput{
+	padding:8px 12px;
+	margin:0;
+}
+#WPCommentCleaner .fixedwidth{
+	min-width:160px;
+	background:#808080;
+	font-size:14px;
+	color:#ccff00;
+	text-align:center;
+	padding:2px;
+}

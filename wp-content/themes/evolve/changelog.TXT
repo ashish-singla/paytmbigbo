@@ -1,0 +1,263 @@
+Version:         3.4.4  -  Fixed Sticky Header issue, Fixed Header and Footer Patern Issue, Added standard WordPres templates - single.php, 404.php, search.php, author.php, attachment.php, page.php, Updated translation files, Minor fixes
+Date:         30/8/15 
+
+Version:         3.4.3  -  Minor fixes
+Date:         5/8/15 
+
+Version:         3.4.1  -  Fixed Customizer Error, Minor fixes
+Date:         1/8/15 
+
+Version:         3.4.0  -  Removed Options Framework as per WordPress requirements, Added Redux Framework support, various fixes
+Date:         26/7/15 
+
+Version:         3.3.0  -  Added options to select typography for H1-H6 headings, widgets title and content, Added option to select a featured image for pages, Added options to select custom background and color for Header, Content and Footer area, Added option to select title length of Posts Slider, Added option to disable boxed layout shadow effect, Updated comments avatars, Updated Color Picker in Customize, Fixed Theme Check notices, Fixed excerpt bug in Posts slider, Fixed Front Page sliders and content boxes display, Overall clean up of unnecessary functions, spaces and css
+Date:         19/4/15   
+
+Version:         3.2.7  -  Small IE and bbPress fixes 
+Date:         19/4/15
+
+Version:         3.2.6  -  Fixed bbPress bug, Added option to select Header Image Background Responsiveness Style 
+Date:         17/4/15
+
+Version:         3.2.5  -  Fixed small Google Map issue, Disabled comments on front page, IE fixes, Implemented Google reCAPTCHA for Contact page template, Added option to enable/disable Bootstrap Slides 100% Background, Added Tumblr social media icon, Added options of the premium version for showcase 
+Date:         14/4/15
+
+Version:         3.2.2  -  Minor fix 
+Date:         5/4/15
+
+Version:         3.2.1  -  Minor fixes 
+Date:         1/4/15
+
+Version:         3.2.0  -  Added Infinite Scroll feature, Added option to select Bootstrap slider and Header widgets per page, IE compatibility fixes, Bootstrap images and responsiveness fixes, <title> tag fix, Completed translation, Fixed Polylang plugin issue, Added WPML compatibility, Color picker replaced with default WP library 
+Date:         31/3/15
+
+Version:         3.1.6  -  Minor fixes
+Date:         9/3/15
+
+Version:         3.1.5  -  Added bbPress and BuddyPress support, Added favicon option, Added 1-4 Front page content boxes option, Fixed various stylesheet issues, Updated translation files
+Date:         1/3/15
+
+Version:         3.1.0  -  Uploader Fix
+Date:         16/2/15
+
+Version:         3.0.9  -  Fixed customizer issues, Updated Bootstrap Elements, Minor Fixes
+Date:         12/2/15
+
+Version:         3.0.8  -  Added Calibri font, Added title characters limit settings option, Added single post featured image, Fixed Bootstrap image alignment and titles background, Fixed codes issue in excerpts, Added Logo center option, Fixed CSS and Google Fonts, Updated Font Awesome
+Date:         22/1/15
+
+Version:         3.0.7  -  Fixed customizer bug, fixed upload media library, added dynamic CSS, small bug fixes
+Date:         13/12/14
+
+Version:         3.0.4  -  Fixed child theme support, fixed validation bugs, added new options to disable menu effect and default thumbnail of posts
+Date:         20/11/14
+
+Version:         3.0.3  -  Fixed Google Map bug, Added Pinterest Social Button, Updated Social Buttons Links
+Date:         3/9/14
+
+Version:         3.0.2  -  Fixed Customize bug
+Date:         23/8/14
+
+Version:         3.0.0  -  Added Customize feature
+Date:         17/8/14
+
+Version:         2.9.9  -  Minor fixes
+Date:         29/6/14
+
+Version:         2.9.8  -  Added Front Page Content Boxes (enabled by default)
+Date:         3/6/14
+
+Version:         2.9.7  -  Updated FontAwesome icons to the latest version, fixed custom header width
+Date:         31/5/14
+
+Version:         2.9.6  -  Fixed Bootstrap Slider arrows issue
+Date:         29/5/14
+
+Version:         2.9.5  -  Added Bootstrap Slider option in the control panel, changed default background, minor fixes
+Date:         25/5/14
+
+Version:         2.9.3  -  Minor fixes, added new theme options
+Date:         18/5/14
+
+Version:         2.9.2  -  Added Macedonian translation, minor fixes
+Date:         1/5/14
+
+Version:         2.9.1  -  Added full width option for single posts/pages
+Date:         4/4/14
+
+Version:         2.9.0  -  Minor fixes
+Date:         28/3/14
+
+Version:         2.8.8  -  Minor visual fixes
+Date:         8/3/14
+
+Version:         2.8.6  -  Added Layout Width option
+Date:         14/2/14
+
+Version:         2.8.5  -  Added Simplified Chinese language, added Contact Page template with Google Maps and Contact Options, fixed child theme CSS issue, updated translation files
+Date:         31/1/14
+
+Version:         2.8.1  -  Fixed menu item hover issue, fixed footer widgets layout, added option to disable Animate.css plugin, minor CSS fixes
+Date:         4/1/14
+
+Version:         2.8.0  -  Fixed mobile menu issue, improved Parallax 'Learn More' option, added Post Formats with a color variations, added CSS transition effects, added Breadcrumbs navigation, added missing WordPress functionality requirements, Improved overall design
+Date:         11/12/13
+
+Version:         2.7.1  -  Fixed menu issue, added new theme option
+Date:         28/11/13
+
+Version:         2.7.0  -  Improved responsiveness with Bootstrap, added Sticky Header, Added new theme options, PHP and CSS fixes
+Date:         24/11/13
+
+Version:         2.6.4  -  Updated Bootstrap Elements, added Font Awesome, Improved Social links options
+Date:         20/11/13
+
+Version:         2.6.2  -  Added Tabs widget
+Date:         17/11/13
+
+Version:         2.6.1  -  Fixed generator issue
+Date:         13/11/13
+
+Version:         2.6.0  -  Improved theme options panel, added Parallax and Posts slider feature, added backup options, added new theme options, improved overall design
+Date:         10/11/13
+
+Version:         2.5.0  -  Improved header widgets area color scheme option
+Date:         11/6/13
+
+Version:         2.4.9  -  Added button color options
+Date:         8/6/13
+
+Version:         2.4.8  -  Added new design options, improved overall design
+Date:         27/5/13
+
+Version:         2.4.7  -  Improved Google Fonts
+Date:         13/5/13
+
+Version:         2.4.6  -  CSS fixes
+Date:         22/3/13
+
+Version:         2.4.5  -  Added Blog template
+Date:         12/3/13
+
+Version:         2.4.4  -  Fixed search button issue for IE 
+Date:         4/2/13
+
+Version:         2.4.3  -  Fixed CSS background bug 
+Date:         29/1/13
+
+Version:         2.4.2  -  CSS and Javascript fixes, improved overall design 
+Date:         22/1/13
+
+Version:         2.4.1  -  Added 5 Google Fonts 
+Date:         8/12/12
+
+Version:         2.4.0  -  Added new design options, improved overall design 
+Date:         17/11/12
+
+Version:         2.3.9  -  Added new design options 
+Date:         20/8/12
+
+Version:         2.3.8  -  Fixed main menu issue 
+Date:         14/8/12
+
+Version:         2.3.7  -  Added Bootstrap Elements support, CSS fixes 
+Date:         9/8/12
+
+Version:         2.3.6  -  Added menu custom background color option 
+Date:         25/7/12
+
+Version:         2.3.5  -  PHP and CSS fixes, added responsive layout and new options 
+Date:         21/7/12
+
+Version:         2.3.0  -  PHP fixes, added new options, improved design
+Date:         26/6/12
+
+Version:         2.2.3  -  Added Greek translation
+Date:         23/5/12
+
+Version:         2.2.2  -  PHP fixes
+Date:         13/5/12
+
+Version:         2.2.1  -  Fixed php issue
+Date:         11/5/12
+
+Version:         2.2.0  -  Improved theme control panel
+Date:         10/5/12
+
+Version:         2.1.1  -  Fixed php issue
+Date:         5/5/12
+
+Version:         2.1.0  -  Added Polish translation
+Date:         4/5/12
+
+Version:         2.0.9  -  Functions and css fixes, added Serbian translation
+Date:         26/4/12
+
+Version:         2.0.8  -  Options fixes, added Danish translation
+Date:         14/4/12
+
+Version:         2.0.7  -  Script and function fixes, added documentation link
+Date:         9/4/12
+
+Version:         2.0.6  -  Fixed issue with default menu in header
+Date:         28/3/12
+
+Version:         2.0.5  -  Fixed issue with custom menu in the sidebar
+Date:         26/3/12
+
+Version:         2.0.4  -  Fixed issue with links in the header
+Date:         22/3/12
+
+Version:         2.0.3  -  Fixed issues with widgets layout
+Date:         19/3/12
+
+Version:         2.0.0  -  CSS fixes, completely redesigned
+Date:         16/3/12
+
+Version:         1.2.9  -  Bug fixes
+Date:         24/10/11
+
+Version:         1.2.8  -  Added option to disable ads, one column template, added affiliates option
+Date:         18/10/11
+
+Version:         1.2.7  -  Fixed Google Plus social button, bug fixes
+Date:         14/9/11
+
+Version:         1.2.6  -  Added Google Plus social button, bug fixes in options page
+Date:         23/7/11
+
+Version:         1.2.5  -  Bug fixes
+Date:         19/6/11
+
+Version:         1.2.4  -  Added translation - Brazilian Portuguese
+Date:         29/4/11
+
+Version:         1.2.3  -  CSS and jQuery fixes, added translations - Norwegian, Slovenian, Italian
+Date:         19/4/11
+
+Version:         1.2.2  -  jQuery fixes, CSS fixes
+Date:         6/4/11
+
+Version:         1.2.1  -  jQuery fixed, added translation - Turkish
+Date:         5/4/11
+
+Version:         1.2.0  -  Added translation - Russian
+Date:         1/4/11
+
+Version:         1.1.9  -  Layout and PHP fixes
+Date:         31/3/11
+
+Version:         1.1.8  -  CSS and PHP fixes
+Date:         21/3/11
+
+Version:         1.1.7  -  CSS and PHP fixes, added translations - Spanish, German, Swedish, Dutch, French
+Date:         7/3/11
+
+Version:         1.1.6  -  CSS and PHP fixes, added translation availability
+Date:         8/2/11
+
+Version:         1.1.5  -  CSS and PHP fixes, added LinkedIn social button
+Date:         7/2/11
+
+Version:         1.1.2  -  Initial release
+Date:         11/1/11

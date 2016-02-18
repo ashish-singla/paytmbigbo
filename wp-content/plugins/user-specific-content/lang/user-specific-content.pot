@@ -1,0 +1,126 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/user-specific-content\n"
+"POT-Creation-Date: 2011-10-17 21:48:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: User-Specific-Content.php:103
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: User-Specific-Content.php:110
+msgid " User Specific Content"
+msgstr ""
+
+#: User-Specific-Content.php:111
+msgid "General settings:"
+msgstr ""
+
+#: User-Specific-Content.php:121
+msgid "Global Blocked message:"
+msgstr ""
+
+#: User-Specific-Content.php:123
+msgid ""
+"<small>(if set in a metabox the it overwrites this message for that secific "
+"post/page)</small>"
+msgstr ""
+
+#: User-Specific-Content.php:128
+msgid "Use with \"the_content\" hook?"
+msgstr ""
+
+#: User-Specific-Content.php:130
+msgid "<small>(default checked)</small>"
+msgstr ""
+
+#: User-Specific-Content.php:134
+msgid "Use with \"the_excerpt\" hook?"
+msgstr ""
+
+#: User-Specific-Content.php:136
+msgid ""
+"<small>(check to make plugin run on archive / tags / category pages default "
+"unchecked)</small>"
+msgstr ""
+
+#: User-Specific-Content.php:139
+msgid "MetaBox settings:"
+msgstr ""
+
+#: User-Specific-Content.php:142
+msgid "list user names? "
+msgstr ""
+
+#: User-Specific-Content.php:144
+msgid ""
+"<small>(default checked) sites with a large number of users should uncheck "
+"this option</small>"
+msgstr ""
+
+#: User-Specific-Content.php:147
+msgid "list user roles?"
+msgstr ""
+
+#: User-Specific-Content.php:149
+msgid ""
+"<small>(default checked) sites with a large number of roles should uncheck "
+"this option</small>"
+msgstr ""
+
+#: User-Specific-Content.php:163
+msgid "Save Changes"
+msgstr ""
+
+#: User-Specific-Content.php:224 User-Specific-Content.php:225
+#: User-Specific-Content.php:236
+msgid "User specific content box"
+msgstr ""
+
+#: User-Specific-Content.php:254
+msgid "Select users to show this content to"
+msgstr ""
+
+#: User-Specific-Content.php:256
+msgid "By User Role:"
+msgstr ""
+
+#: User-Specific-Content.php:276
+msgid "By User Name:"
+msgstr ""
+
+#: User-Specific-Content.php:306
+msgid "logged in users only:"
+msgstr ""
+
+#: User-Specific-Content.php:311
+msgid ""
+"If this box is check then content will show only to logged-in users and "
+"everyone else will get the blocked massage"
+msgstr ""
+
+#: User-Specific-Content.php:313
+msgid "None logged in users only:"
+msgstr ""
+
+#: User-Specific-Content.php:318
+msgid ""
+"If this box is check then content will show only to none logged-in visitors "
+"and everyone else will get the blocked massage"
+msgstr ""
+
+#: User-Specific-Content.php:319
+msgid "Content Blocked message:"
+msgstr ""
+
+#: User-Specific-Content.php:320
+msgid "This message will be shown to anyone who is not on the list above."
+msgstr ""

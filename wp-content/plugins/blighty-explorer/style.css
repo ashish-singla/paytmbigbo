@@ -1,0 +1,87 @@
+.bex-wrapper {
+	width: auto;
+	font-family: arial;
+	margin: 20px auto;
+	background: #eeeeee;
+	border-radius: 10px;
+	border: 1px solid #cccccc;
+	padding: 15px
+}
+
+.bex-table {
+	display: table;
+	width: 100%;
+}
+
+.bex-header  {
+	display: table-header-group;
+	background: #E7E7E7;
+	width:auto;
+	clear:both;
+	font-weight: bold;
+}
+
+.bex-row-0  {
+	display: table-row;
+	background: #EEEEEE;
+	width:auto;
+	clear:both;
+}
+
+.bex-row-1  {
+	display: table-row;
+	background: #E7E7E7;
+	width:auto;
+	clear:both;
+}
+
+.bex-row-0:hover, .bex-row-1:hover  {
+	background: #EED7D7;
+}
+
+.bex-cell {
+	display: table-cell;
+	width:auto;
+}
+
+.bex-cell-r {
+	display: table-cell;
+	width:auto;
+	text-align: right;
+}
+
+.bex-img {
+	margin-bottom: 1px;
+}
+
+.bex-upload-form {
+	font-family: arial;
+	display: block;
+	margin: 20px auto;
+	background: #eeeeee;
+	border-radius: 10px;
+	padding: 15px;
+	border: 1px solid #cccccc;
+}
+
+.bex-progress {
+	position: relative;
+	width: 400px;
+	border: 1px solid #000000;
+	padding: 0px;
+	border-radius: 5px;
+}
+
+.bex-bar {
+	background-color: #EED7D7;
+	width:0%;
+	height:20px;
+	border-radius: 5px;
+}
+
+.bex-percent {
+	position: absolute;
+	display: inline-block;
+	top: 3px;
+	left: 48%;
+}

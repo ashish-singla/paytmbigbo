@@ -1,0 +1,4539 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: evolve\n"
+"POT-Creation-Date: 2015-08-30 08:59+0100\n"
+"PO-Revision-Date: 2015-08-30 08:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\evolve\n"
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/404.php:42
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/attachment.php:142
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:191
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:391
+msgid "Not Found"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/404.php:45
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:195
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:395
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:45
+msgid "Daily archives for"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:47
+msgid "Monthly archives for"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:49
+msgid "Yearly archives for"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:53
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1809
+msgid "Posts in category"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:57
+msgid "Posts tagged"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:63
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:41
+msgid "Search results for"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:68
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:40
+msgid "Posts by"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:111
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:248
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:80
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:217
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:64
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:217
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:82
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:219
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:76
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:252
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/single.php:74
+msgid "Written by"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:114
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:250
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/attachment.php:69
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:83
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:219
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:67
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:220
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:85
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:221
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:79
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:254
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/single.php:76
+msgid "edit"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:129
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/attachment.php:79
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:98
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:123
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:87
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:233
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:100
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:230
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/page.php:51
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:94
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/single.php:85
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/pluggable.php:95
+msgid "EDIT"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:179
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:308
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:148
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:277
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:143
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:288
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:150
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:279
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:144
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:312
+msgid "READ MORE"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:183
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:237
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/attachment.php:56
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:152
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:206
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:147
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:205
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:154
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:208
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:148
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:241
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/single.php:63
+msgid "Leave a Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:183
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:237
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/attachment.php:56
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:152
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:206
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:147
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:205
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:154
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:208
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:148
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:241
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/single.php:63
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/comments.php:29
+msgid "1 Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:183
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:237
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/attachment.php:56
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:152
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:206
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:147
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:205
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:154
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:208
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:148
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:241
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/single.php:63
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/comments.php:27
+msgid "% Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:313
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:282
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:293
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:284
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/page.php:56
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:317
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/single.php:101
+msgid "READ MORE &raquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/archive.php:315
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/author.php:284
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/index.php:286
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:319
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/single.php:102
+msgid "<strong>Pages:</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/attachment.php:65
+msgid "By"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/attachment.php:146
+msgid "Sorry, no attachments matched your criteria."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress.php:21
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/buddypress.php:22
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:295
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:423
+msgid "Pages"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/comments.php:53
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/comments.php:28
+msgid "No Comments Yet"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:86
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:87
+msgid "Email:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:88
+msgid "Subject:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:89
+msgid "Comments:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:132
+msgid ""
+"Please check if you've filled all the fields with valid information. Thank "
+"you."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:137
+msgid "Thank you"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:137
+msgid "for using my contact form! Your email was successfully sent!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:146
+msgid "Name (required)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:150
+msgid "Email (required)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:154
+msgid "Subject"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:162
+msgid "Message"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/contact.php:175
+msgid "Send Message"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:55
+msgid "Permanent Link to "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:75
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:194
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/content-blog.php:227
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:239
+msgid "Permanent Link to"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/header.php:151
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/searchform.php:13
+msgid "Type your search"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/navigation.php:24
+msgid "Newer Entries"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/navigation.php:25
+msgid "Older Entries"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:171
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:371
+msgid "Your search for"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:171
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:371
+msgid "did not match any entries"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:176
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:376
+msgid "Suggestions:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:178
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:378
+msgid "Make sure all words are spelled correctly."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:179
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:379
+msgid "Try different keywords."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:180
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/search.php:380
+msgid "Try more general keywords."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:20
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1161
+msgid "RSS Feed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:25
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1167
+msgid "Newsletter"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:29
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:127
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1039
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1173
+msgid "Facebook"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:33
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1048
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1179
+msgid "Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:37
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1075
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1215
+msgid "Google Plus"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:41
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1185
+msgid "Instagram"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:45
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1191
+msgid "Skype"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:49
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1197
+msgid "YouTube"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:53
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1203
+msgid "Flickr"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:57
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1066
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1209
+msgid "LinkedIn"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:61
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1093
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1221
+msgid "Pinterest"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/social-buttons.php:65
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1084
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1227
+msgid "Tumblr"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/content-search.php:14
+msgid "Need a new search?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/content-search.php:15
+msgid "If you didn't find what you were looking for, try a new search!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/content-search.php:19
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/content-search.php:21
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-search.php:16
+msgid "Search the Forum..."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/content-single-topic-lead.php:18
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/content-single-topic-lead.php:22
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/content-single-topic-lead.php:94
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:22
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:27
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:31
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:35
+msgid "Move Method"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:39
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:39
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:40
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:47
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:47
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:56
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:56
+msgid "No other topics found!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:67
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:88
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:92
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:71
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:91
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:92
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:96
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:161
+msgid "Submit"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:84
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply-move.php:84
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:27
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:44
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:70
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:55
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:81
+msgid "Tags:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:70
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:142
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:74
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:146
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:109
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:178
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:113
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:182
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:142
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:150
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:208
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:158
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-reply.php:158
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:22
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:27
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:28
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:32
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:36
+msgid "Destination"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:40
+msgid "Merge with this topic:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:49
+msgid "No topics were found to which the topic could be merged to!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:55
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:63
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:67
+msgid "Topic Extras"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:70
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:75
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:80
+msgid "Merge topic tags"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:105
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:109
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-merge.php:105
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:109
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:22
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:27
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:31
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:35
+msgid "Split Method"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:40
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:74
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:79
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-split.php:84
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:59
+msgid "Merge"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:88
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:167
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:39
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:41
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:41
+msgid "Create New Topic"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:55
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:94
+msgid "Forum:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:97
+msgid "(No Forum)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:113
+msgid "Topic Type:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:125
+msgid "Topic Status:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:216
+msgid "You cannot create new topics."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/form-topic.php:216
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-forums.php:21
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-replies.php:28
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-forums.php:21
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-forums.php:22
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-search-forum.php:30
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-search-reply.php:22
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-search-topic.php:22
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-single-reply.php:22
+#, php-format
+msgid "Post count: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-search-reply.php:42
+msgid "In reply to: "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-search-topic.php:48
+msgid "Topic: "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-search-topic.php:53
+msgid "in group forum "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-search-topic.php:57
+msgid "in forum "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-single-reply.php:48
+msgid "in reply to: "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/user-details.php:40
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/user-profile.php:15
+msgid "Profile"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/user-details.php:46
+msgid "Topics Started"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/user-details.php:52
+msgid "Replies Created"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/user-details.php:63
+msgid "Favorites"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/user-details.php:73
+msgid "Subscriptions"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/user-details.php:80
+msgid "Edit"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/user-profile.php:24
+msgid "Forum Role:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/user-profile.php:25
+msgid "Topics Started:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/bbpress/user-profile.php:26
+msgid "Replies Created:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:98
+msgid "evolve"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:104
+msgid "Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:105
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:230
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:234
+msgid "Options"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:112
+msgid "Theme Homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:117
+msgid "Documentation"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:122
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:353
+msgid "Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:200
+msgid "General"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:204
+msgid "Upload custom favicon."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:207
+msgid "Custom Favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:211
+msgid "Select main content and sidebar alignment."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:223
+msgid "Select a layout"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:227
+msgid "<strong>Boxed version</strong> automatically enables custom background"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:232
+msgid "Boxed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:233
+msgid "Wide"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:235
+msgid "Layout Style"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:239
+msgid "Select the width for your website"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:249
+msgid "Layout Width"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:253
+msgid ""
+"<strong>Boxed version</strong> Disables the shadow effect around the layout"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:258
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:386
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:396
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:822
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:867
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:906
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:922
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:937
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1036
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1045
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1054
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1063
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1072
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1081
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1090
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1099
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1118
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1149
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1243
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1252
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1299
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1347
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1395
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2072
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2081
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2089
+msgid "Enabled"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:259
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:345
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:365
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:956
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:967
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:980
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1002
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2161
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:1736
+msgid "Disable"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:261
+msgid "Shadow Effect"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:271
+msgid "Header"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:275
+msgid "Enter height in px, minimum recommended height is 125px"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:278
+msgid "Header Height"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:282
+msgid ""
+"Select if the header background image should be displayed in cover or "
+"contain size."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:287
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:452
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:731
+msgid "Cover"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:288
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:453
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:732
+msgid "Contain"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:290
+msgid "Header Image Background Responsiveness Style"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:297
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:462
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:835
+msgid "no-repeat"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:298
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:463
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:832
+msgid "repeat"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:299
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:464
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:833
+msgid "repeat-x"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:300
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:465
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:834
+msgid "repeat-y"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:302
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:467
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:837
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:309
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:474
+msgid "center top"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:310
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:475
+msgid "center center"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:311
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:476
+msgid "center bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:312
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:477
+msgid "left top"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:313
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:478
+msgid "left center"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:314
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:479
+msgid "left bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:315
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:480
+msgid "right top"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:316
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:481
+msgid "right center"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:317
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:482
+msgid "right bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:319
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:484
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:323
+msgid "Custom background color of header"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:327
+msgid "Header color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:330
+msgid "Upload a logo for your theme, or specify an image URL directly."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:333
+msgid "Custom logo"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:337
+msgid "Choose the position of your custom logo"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:342
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2162
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/border/field_border.php:159
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:343
+msgid "Center"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:344
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2163
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/border/field_border.php:145
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:347
+msgid "Logo position"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:351
+msgid "Check this box if you don't want to display title of your blog"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:354
+msgid "Disable Blog Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:357
+msgid "Choose the position of blog tagline"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:362
+msgid "Next to blog title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:363
+msgid "Above blog title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:364
+msgid "Under blog title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:367
+msgid "Blog Tagline position"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:371
+msgid "Check this box if you don't want to display main menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:374
+msgid "Disable main menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:377
+msgid "Check this box if you don't want to display main menu hover effect"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:380
+msgid "Disable main menu Hover Effect"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:383
+msgid "Check this box if you want to display sticky header"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:387
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:397
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:823
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:868
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:907
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:923
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:938
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1037
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1046
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1055
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1064
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1073
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1082
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1091
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1100
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1119
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1150
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1244
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1253
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1300
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1348
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1396
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2071
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2080
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2088
+msgid "Disabled"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:389
+msgid "Enable sticky header"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:393
+msgid "Check this box if you want to display searchbox in main menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:399
+msgid "Enable searchbox in main menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:403
+msgid "Select how many header widget areas you want to display."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:413
+msgid "Number of widget cols in header"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:417
+msgid "Choose where to display header widgets"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:421
+msgid "Home page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:422
+msgid "Single Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:424
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:979
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1477
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1618
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1790
+msgid "All pages"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:425
+msgid "Select Per Post/Page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:427
+msgid "Header widgets placement"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:437
+msgid "Footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:441
+msgid ""
+"Upload a footer background image for your theme, or specify an image URL "
+"directly."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:444
+msgid "Footer Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:448
+msgid ""
+"Select if the footer background image should be displayed in cover or "
+"contain size."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:455
+msgid "Footer Image Background Responsiveness Style"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:488
+msgid "Custom background color of footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:492
+msgid "Footer color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:495
+msgid "Select how many footer widget areas you want to display."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:505
+msgid "Number of widget cols in footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:509
+msgid ""
+"Available <strong>HTML</strong> tags and attributes:<br /><br /> <code> &lt;"
+"b&gt; &lt;i&gt; &lt;a href=\"\" title=\"\"&gt; &lt;blockquote&gt; &lt;del "
+"datetime=\"\"&gt; <br /> &lt;ins datetime=\"\"&gt; &lt;img src=\"\" alt="
+"\"\" /&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; <br /> &lt;code&gt; &lt;em&gt; "
+"&lt;strong&gt; &lt;div&gt; &lt;span&gt; &lt;h1&gt; &lt;h2&gt; &lt;h3&gt; &lt;"
+"h4&gt; &lt;h5&gt; &lt;h6&gt; <br /> &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; "
+"&lt;td&gt; &lt;br /&gt; &lt;hr /&gt;</code>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:512
+msgid "Custom footer"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:522
+msgid "Typography"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:526
+msgid ""
+"Select the typography you want for your blog title. * non web-safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:529
+msgid "Blog Title font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:540
+msgid ""
+"Select the typography you want for your blog tagline. * non web-safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:545
+msgid "Blog tagline font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:554
+msgid "Select the typography you want for your main menu. * non web-safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:559
+msgid "Main menu font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:568
+msgid ""
+"Select the typography you want for your widget title. * non web-safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:573
+msgid "Widget title font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:582
+msgid ""
+"Select the typography you want for your widget content. * non web-safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:587
+msgid "Widget content font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:596
+msgid ""
+"Select the typography you want for your post titles. * non web-safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:601
+msgid "Post title font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:610
+msgid ""
+"Select the typography you want for your blog content. * non web-safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:615
+msgid "Content font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:624
+msgid ""
+"Select the typography you want for your H1 tag in blog content. * non web-"
+"safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:629
+msgid "H1 font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:638
+msgid ""
+"Select the typography you want for your H2 tag in blog content. * non web-"
+"safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:643
+msgid "H2 font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:652
+msgid ""
+"Select the typography you want for your H3 tag in blog content. * non web-"
+"safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:657
+msgid "H3 font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:666
+msgid ""
+"Select the typography you want for your H4 tag in blog content. * non web-"
+"safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:669
+msgid "H4 font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:680
+msgid ""
+"Select the typography you want for your H5 tag in blog content. * non web-"
+"safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:683
+msgid "H5 font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:694
+msgid ""
+"Select the typography you want for your H6 tag in blog content. * non web-"
+"safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:699
+msgid "H6 font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:714
+msgid "Styling"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:718
+msgid ""
+"Upload a content background image for your theme, or specify an image URL "
+"directly."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:722
+msgid "Content Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:726
+msgid ""
+"Select if the content background image should be displayed in cover or "
+"contain size."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:734
+msgid "Content Image Background Responsiveness Style"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:738
+msgid "Background color of content"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:742
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:768
+msgid "Light"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:743
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:769
+msgid "Dark"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:745
+msgid "Content color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:749
+msgid "Custom background color of content area"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:753
+msgid "Or Custom content color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:756
+msgid "Check this box if you want to disable menu background"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:760
+msgid "Disable Menu Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:763
+msgid "Background color of main menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:771
+msgid "Menu color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:775
+msgid ""
+"Custom background color of main menu. <strong>Dark menu must be enabled.</"
+"strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:779
+msgid "Or custom menu color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:782
+msgid "Choose the pattern for header and footer background"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:797
+msgid "Header and Footer pattern"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:802
+msgid "Choose the color scheme for the area below header menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:806
+msgid "Color scheme of the slideshow and widgets area"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:810
+msgid "Upload an image for the area below header menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:814
+msgid "Background Image of the slideshow and widgets area"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:818
+msgid ""
+"Have background image always at 100% in width and height and scale according "
+"to the browser size."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:825
+msgid "100% Background Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:841
+msgid "Custom color for links"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:845
+msgid "General Link Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:849
+msgid "Custom color for buttons: Read more, Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:853
+msgid "Buttons 1 Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:856
+msgid "Custom color for buttons: Post Comment, Submit"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:860
+msgid "Buttons 2 Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:863
+msgid "Check this box if you want to enable black background for widget titles"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:870
+msgid "Enable Widget Title Black Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:873
+msgid "Check this box if you want to disable widget background"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:877
+msgid "Disable Widget Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:886
+msgid "Blog"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:890
+msgid ""
+"Grid layout with <strong>3</strong> posts per row is recommended to use with "
+"disabled <strong>Sidebar(s)</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:899
+msgid "Blog layout"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:903
+msgid ""
+"Check this box if you want to display post excerpts on one column blog layout"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:909
+msgid "Enable post excerpts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:912
+msgid "Check this box if you want to display featured images"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:915
+msgid "Enable featured images"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:919
+msgid ""
+"Check this box if you want to display featured image on Single Blog Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:925
+msgid "Enable featured image on Single Blog Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:928
+msgid "Turn on if you don't want to display default thumbnail images"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:931
+msgid "Hide default thumbnail images"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:934
+msgid "Check this box if you want to display post author avatar"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:940
+msgid "Enable post author avatar"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:943
+msgid ""
+"Enter number of characters for Post Title Excerpt. This works only if a grid "
+"layout is enabled."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:946
+msgid "Post Title Excerpt Length"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:950
+msgid "Choose placement of the post meta header - Date, Author, Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:954
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:978
+msgid "Single posts + Archive pages"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:955
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:977
+msgid "Single posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:958
+msgid "Post meta header placement"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:962
+msgid "Enable page title in category pages ?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:966
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:1731
+msgid "Enable"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:969
+msgid "Category Page Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:973
+msgid "Choose placement of the 'Share This' buttons"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:982
+msgid "'Share This' buttons placement"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:986
+msgid "Choose the position of the <strong>Previous/Next Post</strong> links"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:990
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2149
+msgid "After posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:991
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2150
+msgid "Before posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:992
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2151
+msgid "Both"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:994
+msgid "Position of previous/next posts links"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:998
+msgid ""
+"Choose if you want to display <strong>Similar posts</strong> in articles"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1003
+msgid "Match by categories"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1004
+msgid "Match by tags"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1006
+msgid "Display Similar posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1010
+msgid ""
+"Select the pagination type for the assigned blog page in Settings > Reading."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1015
+msgid "Pagination"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1016
+msgid "Infinite Scroll"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1018
+msgid "Pagination Type"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1028
+msgid "Social Sharing Box Shortcode"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1030
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1877
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1916
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2233
+#, php-format
+msgid ""
+"These options are only available with the <a href=\"%s\" target=\"_blank"
+"\">evolve+ Premium</a> version."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1033
+msgid "Show the facebook sharing icon in blog posts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1042
+msgid "Show the twitter sharing icon in blog posts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1051
+msgid "Show the reddit sharing icon in blog posts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1057
+msgid "Reddit"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1060
+msgid "Show the linkedin sharing icon in blog posts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1069
+msgid "Show the g+ sharing icon in blog posts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1078
+msgid "Show the tumblr sharing icon in blog posts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1087
+msgid "Show the pinterest sharing icon in blog posts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1096
+msgid "Show the email sharing icon in blog posts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1102
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1111
+msgid "Social Media Links"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1115
+msgid "Check this box if you want to display Subscribe/Social links in header"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1121
+msgid "Enable Subscribe/Social links in header"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1124
+msgid "Choose the color scheme of subscribe/social icons"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1128
+msgid "Subscribe/Social icons color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1132
+msgid "Choose the size of subscribe/social icons"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1137
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1925
+msgid "Normal"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1138
+msgid "Small"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1139
+msgid "Large"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1140
+msgid "X-Large"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1142
+msgid "Subscribe/Social icons size"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1146
+msgid "Check this box to enable RSS Feed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1152
+msgid "Enable RSS Feed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1155
+msgid ""
+"Insert custom RSS Feed URL, e.g. <strong>http://feeds.feedburner.com/"
+"Example</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1164
+msgid ""
+"Insert custom newsletter URL, e.g. <strong>http://feedburner.google.com/fb/a/"
+"mailverify?uri=Example&amp;loc=en_US</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1170
+msgid "Insert your Facebook URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1176
+msgid "Insert your Twitter URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1182
+msgid "Insert your Instagram URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1188
+msgid "Insert your Skype ID"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1194
+msgid "Insert your YouTube URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1200
+msgid "Insert your Flickr URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1206
+msgid "Insert your LinkedIn profile URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1212
+msgid "Insert your Google Plus profile URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1218
+msgid "Insert your Pinterest profile URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1224
+msgid "Insert your Tumblr profile URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1236
+msgid "Front Page Content Boxes"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1240
+msgid "Check this box to enable Front Page Content Boxes"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1246
+msgid "Enable Front Page Content Boxes"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1250
+msgid "Enable Content Box 1 ?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1259
+msgid "Content Box 1 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1265
+msgid "Content Box 1 Icon (FontAwesome)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1272
+msgid "Content Box 1 Icon Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1276
+msgid ""
+"Upload an image as your icon, or specify an image URL directly. <br/> This "
+"overwrites the Content Box 1 Icon (FontAwesome) setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1279
+msgid "Content Box 1 Custom Icon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1280
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1328
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1376
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1424
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2126
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2134
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2178
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2215
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2222
+#, php-format
+msgid ""
+"This option is only available with the <a href=\"%s\" target=\"_blank"
+"\">evolve+ Premium</a> version."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1287
+msgid "Content Box 1 description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1293
+msgid "Content Box 1 Button"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1302
+msgid "Enable Content Box 2 ?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1307
+msgid "Content Box 2 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1313
+msgid "Content Box 2 Icon (FontAwesome)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1320
+msgid "Content Box 2 Icon Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1324
+msgid ""
+"Upload an image as your icon, or specify an image URL directly. <br/> This "
+"overwrites the Content Box 2 Icon (FontAwesome) setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1327
+msgid "Content Box 2 Custom Icon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1335
+msgid "Content Box 2 description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1341
+msgid "Content Box 2 Button"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1350
+msgid "Enable Content Box 3 ?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1355
+msgid "Content Box 3 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1361
+msgid "Content Box 3 Icon (FontAwesome)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1368
+msgid "Content Box 3 Icon Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1372
+msgid ""
+"Upload an image as your icon, or specify an image URL directly. <br/> This "
+"overwrites the Content Box 3 Icon (FontAwesome) setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1375
+msgid "Content Box 3 Custom Icon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1383
+msgid "Content Box 3 description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1389
+msgid "Content Box 3 Button"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1398
+msgid "Enable Content Box 4 ?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1403
+msgid "Content Box 4 Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1409
+msgid "Content Box 4 Icon (FontAwesome)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1416
+msgid "Content Box 4 Icon Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1420
+msgid ""
+"Upload an image as your icon, or specify an image URL directly. <br/> This "
+"overwrites the Content Box 4 Icon (FontAwesome) setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1423
+msgid "Content Box 4 Custom Icon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1431
+msgid "Content Box 4 description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1437
+msgid "Content Box 4 Button"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1448
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1586
+msgid "Super Awesome WP Theme"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1449
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1587
+msgid ""
+"Absolutely free of cost theme with amazing design and premium features which "
+"will impress your visitors"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1452
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1591
+msgid "Bootstrap and Font Awesome Ready"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1453
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1592
+msgid ""
+"Built-in Bootstrap Elements and Font Awesome let you do amazing things with "
+"your website"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1456
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1596
+msgid "Easy to use control panel"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1457
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1597
+msgid ""
+"Select of 500+ Google Fonts, choose layout as you need, set up your social "
+"links"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1460
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1601
+msgid "Fully responsive theme"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1461
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1602
+msgid ""
+"Adaptive to any screen depending on the device being used to view the site"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1464
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1606
+msgid "Unlimited color schemes"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1465
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1607
+msgid ""
+"Upload your own logo, change background color or images, select links color "
+"which you love - it's limitless"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1471
+msgid ""
+"Display Bootstrap Slider on the homepage, all pages or select the slider in "
+"the post/page edit mode."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1475
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1616
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1788
+msgid "Homepage only"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1476
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1617
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1789
+msgid "Manually select in a Post/Page edit mode"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1479
+msgid "Bootstrap Slider placement"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1483
+msgid "Check this box to disable Bootstrap Slides 100% Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1486
+msgid "Disable Bootstrap Slides 100% Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1489
+msgid "Input the time between transitions (Default: 7000);"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1492
+msgid "Speed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1497
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1632
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1841
+msgid ""
+"Select the typography you want for the slide title. * non web-safe font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1500
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1635
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1846
+msgid "Slider Title font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1511
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1646
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1855
+msgid ""
+"Select the typography you want for the slide description. * non web-safe "
+"font."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1514
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1649
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1860
+msgid "Slider description font"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1527
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1662
+#, php-format
+msgid "Enable Slide %d"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1528
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1663
+#, php-format
+msgid "Enable or Disable Slide %d"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1535
+#, php-format
+msgid "Slide %d Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1536
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1671
+#, php-format
+msgid "Upload an image for the Slide %d, or specify an image URL directly"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1546
+#, php-format
+msgid "Slide %d Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1554
+#, php-format
+msgid "Slide %d description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1563
+#, php-format
+msgid "Slide %d Button"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1568
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1703
+msgid "Learn more"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1575
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:960
+msgid "Bootstrap Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1612
+msgid ""
+"Display Parallax Slider on the homepage, all pages or select the slider in "
+"the post/page edit mode."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1620
+msgid "Parallax Slider placement"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1624
+msgid "Input the time between transitions (Default: 4000);"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1627
+msgid "Parallax Speed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1670
+#, php-format
+msgid "Slide %s Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1681
+#, php-format
+msgid "Slide %s Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1690
+#, php-format
+msgid "Slide %s description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1699
+#, php-format
+msgid "Slide %s Button"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1770
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:958
+msgid "Parallax Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1780
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:959
+msgid "Posts Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1784
+msgid ""
+"Display Posts Slider on the homepage, all pages or select the slider in the "
+"post/page edit mode."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1792
+msgid "Posts Slider placement"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1800
+msgid "Number of posts to display"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1804
+msgid "Choose to display latest posts or posts of a category."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1808
+msgid "Recent posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1811
+msgid "Slideshow content"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1815
+msgid "Select post categories to pull content for the post slideshow."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1823
+msgid "Category ID(s)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1826
+msgid "Input the time between transitions (Default: 3500);"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1829
+msgid "Slider Speed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1834
+msgid "Sets the length of Slider Title. Default is 40"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1837
+msgid "Slider Title Length"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1876
+msgid "Flexslider"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1881
+msgid "Turn on to autoplay the slideshow."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1884
+msgid "Autoplay"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1887
+msgid ""
+"Controls the speed of slideshows for the [slider] shortcode and sliders "
+"within posts. 1000 = 1 second."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1890
+msgid "Slideshow speed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1894
+msgid "Controls the number of slides per group for the flexslider plugin."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1897
+msgid "Number of FlexSlider Slides"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1901
+msgid ""
+"Turn on if you want to show pagination circles below a video slide for "
+"flexslider. Leave it off to hide them on video slides."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1904
+msgid "Pagination circles below video slides"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1914
+msgid "Lightbox"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1919
+msgid "Set the speed of the animation."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1923
+msgid "Fast"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1924
+msgid "Slow"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1927
+msgid "Animation Speed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1931
+msgid "Show the gallery."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1934
+msgid "Show gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1937
+msgid "Autoplay the lightbox gallery."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1940
+msgid "Autoplay the Lightbox Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1943
+msgid "If autoplay is enabled, set the slideshow speed, 1000 = 1 second."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1946
+msgid "Slideshow Speed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1950
+msgid "Set the opacity of background, <br />0.1 (lowest) to 1 (highest)."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1957
+msgid "Background Opacity"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1961
+msgid "Show the image caption."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1964
+msgid "Show Caption"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1967
+msgid ""
+"Show the image description. The Alternative text field is used for the "
+"description."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1970
+msgid "Show description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1973
+msgid "Show social sharing buttons on lightbox."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1976
+msgid "Social Sharing"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1979
+msgid "Show post images that are inside the post content area in the lightbox."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1982
+msgid "Show Post Images in Lightbox"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1992
+msgid "Contact"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:1996
+msgid "Select the type of google map to show on the contact page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2000
+msgid "roadmap"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2001
+msgid "satellite"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2002
+msgid "hybrid (default)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2003
+msgid "terrain"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2005
+msgid "Google Map Type"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2009
+#, php-format
+msgid "(in pixels or percentage, e.g.:100% or 100px)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2013
+msgid "Google Map Width"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2017
+msgid "(in pixels, e.g.: 100px)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2021
+msgid "Google Map Height"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2025
+msgid ""
+"Example: 775 New York Ave, Brooklyn, Kings, New York 11203.<br /> For "
+"multiple markers, separate the addresses with the | symbol. ex: Address 1|"
+"Address 2|Address 3."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2029
+msgid "Google Map Address"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2033
+msgid "Insert name of header which will be in the header of sent email."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2036
+msgid "Sent Email Header (From)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2040
+msgid "Enter the email adress the form will be sent to."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2043
+msgid "Email Address"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2046
+msgid "Higher number will be more zoomed in."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2051
+msgid "Map Zoom Level"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2055
+msgid "Display the address pin."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2058
+msgid "Hide"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2059
+msgid "Show"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2060
+msgid "Hide Address Pin"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2063
+msgid ""
+"Keep the popup graphic with address info hidden when the google map loads. "
+"It will only show when the pin on the map is clicked."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2066
+msgid "Show Map Popup On Click"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2069
+msgid "Disable scrollwheel on google maps."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2074
+msgid "Disable Map Scrollwheel"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2077
+msgid "Disable scale on google maps."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2082
+msgid "Disable Map Scale"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2085
+msgid ""
+"Check the box to disable zoom control icon and pan control icon on google "
+"maps."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2090
+msgid "Disable Map Zoom & Pan Control Icons"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2093
+#, php-format
+msgid ""
+"Get Google reCAPTCHA keys <a href=\"%s\">here</a>  to enable spam protection "
+"on the contact page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2100
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2106
+msgid "Follow the steps in our docs to get your key"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2103
+msgid "Google reCAPTCHA Site Key"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2109
+msgid "Google reCAPTCHA Secret key"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2119
+msgid "Extra"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2123
+msgid "Select the slideshow speed, 1000 = 1 second."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2127
+msgid "Testimonials Speed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2131
+msgid ""
+"Check the box to add rel=\"nofollow\" attribute to social sharing box "
+"shortcode."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2135
+msgid "Add rel=\"nofollow\" to social links"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2138
+msgid "Check this box if you want to enable breadcrumbs navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2141
+msgid "Enable Breadcrumbs Navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2145
+msgid "Choose the position of the <strong>Older/Newer Posts</strong> links"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2153
+msgid "Position of navigation links"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2164
+msgid "Middle"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2166
+msgid "Position of 'Back to Top' button"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2170
+msgid ""
+"<h3 style='margin: 0;'>Options For Plugins Integrated Within The Theme</h3>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2175
+msgid "Check this box if you want to enable FlexSlider support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2179
+msgid "Enable FlexSlider support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2182
+msgid "Check this box if you want to enable Parallax Slider support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2185
+msgid "Enable Parallax Slider support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2189
+msgid "Check this box if you want to enable Carousel Slider support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2192
+msgid "Enable Carousel Slider support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2196
+msgid "Check this box if you want to enable Google Map Scripts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2200
+msgid "Enable Google Map Scripts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2204
+msgid ""
+"Check this box if you want to enable Animate.css plugin support - (menu "
+"hover effect, featured image hover effect, button hover effect, etc.)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2208
+msgid "Enable Animate.css plugin support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2212
+msgid "Check the box to disable Youtube API scripts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2216
+msgid "Disable Youtube API Scripts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2219
+msgid "Check the box to disable Vimeo API scripts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2223
+msgid "Disable Vimeo API Scripts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2232
+msgid "WooCommerce"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2237
+msgid "Insert the number of posts to display per page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2240
+msgid "Number of Products per Page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2244
+msgid "Check the box to disable the ordering boxes displayed on the shop page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2247
+msgid "Disable Woocommerce Shop Page Ordering Boxes"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2250
+msgid "Check the box to use evolve's one page checkout template."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2253
+msgid "Use Woocommerce One Page Checkout"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2256
+msgid "Check the box to show the order notes on the checkout page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2259
+msgid "Show Woocommerce Order Notes on Checkout"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2262
+msgid "Check the box to show My Account link, uncheck to disable."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2265
+msgid "Show Woocommerce My Account Link in Header"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2268
+msgid "Check the box to show the Cart icon, uncheck to disable."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2271
+msgid "Show Woocommerce Cart Link in Header"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2274
+msgid ""
+"Check the box to show the social icons on product pages, uncheck to disable."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2277
+msgid "Show Woocommerce Social Icons"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2280
+msgid ""
+"Insert your text and it will appear in the first message box on the account "
+"page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2283
+msgid "Account Area Message 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2287
+msgid ""
+"Insert your text and it will appear in the second message box on the account "
+"page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2290
+msgid "Account Area Message 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2300
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2307
+msgid "Custom CSS"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2304
+msgid ""
+"Paste your CSS code, do not include any tags or HTML in this field. Any "
+"custom CSS entered here will override the theme CSS. In some cases, the !"
+"important tag may be needed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/options-init.php:2316
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/evolve-exts/class-evolve-redux-customizer-section.php:71
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/evolve-exts/class-evolve-redux-customizer-section.php:121
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/evolve-exts/class-evolve-redux-customizer-section.php:78
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/evolve-exts/class-evolve-redux-customizer-section.php:127
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:138
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/evolve-exts/class-evolve-redux-customizer-section.php:130
+msgid "Customizing"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:226
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:226
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:200
+msgid "Redux Framework"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:1742
+msgid "moving the mouse over"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:1744
+msgid "clicking"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:1748
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:1753
+msgid "Hints"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:1880
+msgid "Default"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:2759
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:2768
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/framework.php:2857
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/enqueue.php:451
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:687
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/enqueue.php:459
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:688
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/enqueue.php:467
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/enqueue.php:475
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:689
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/enqueue.php:482
+msgid "Please Wait"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/enqueue.php:493
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/enqueue.php:494
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_filesystem.php:31
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_filesystem.php:60
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_filesystem.php:260
+msgid "File Permission Issues"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_filesystem.php:60
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_filesystem.php:260
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/class.redux_helpers.php:596
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:722
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:723
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:724
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:114
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from File"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:96
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:102
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Import"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid "Export Options"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:114
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid "Copy Data"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:122
+msgid "Download Data File"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:123
+msgid "Copy Export URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/options_object/extension_options_object.php:82
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/background/field_background.php:124
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/color/field_color.php:73
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/color_gradient/field_color_gradient.php:79
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/background/field_background.php:277
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/background/field_background.php:314
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/media/field_media.php:198
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:126
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/background/field_background.php:321
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/media/field_media.php:205
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/multi_text/field_multi_text.php:69
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/multi_text/field_multi_text.php:73
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/multi_text/field_multi_text.php:76
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:133
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/border/field_border.php:125
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/border/field_border.php:138
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/border/field_border.php:152
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/dimensions/field_dimensions.php:178
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/dimensions/field_dimensions.php:189
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/dimensions/field_dimensions.php:190
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/spacing/field_spacing.php:245
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/link_color/field_link_color.php:99
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2216
+msgid "Active"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/select/field_select.php:83
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/select/field_select.php:134
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:73
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:145
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:149
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:153
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:258
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:273
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:342
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:343
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:365
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:366
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:388
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:389
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:408
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:409
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:432
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:441
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:450
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:459
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/color/validation_color.php:15
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/colorrgba/validation_colorrgba.php:16
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/color_rgba/validation_color_rgba.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/email/validation_email.php:16
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/numeric/validation_numeric.php:16
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:177
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:200
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:208
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:216
+msgid "Get Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:224
+msgid "Redux Extensions"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:233
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:241
+msgid "Redux Framework Status"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:341
+msgid "What's New"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:344
+msgid "Extensions"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:347
+msgid "Changelog"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:350
+msgid "Credits"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:356
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2444
+msgid "Status"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/welcome.php:513
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/about.php:8
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/changelog.php:8
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/credits.php:8
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/extensions.php:82
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:31
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/changelog.php:5
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/credits.php:15
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:172
+msgid "Language"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:358
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:582
+msgid "Name"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:587
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2443
+msgid "Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:22
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:52
+msgid "User"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/footer.tpl.php:50
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/footer.tpl.php:54
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header_stickybar.tpl.php:24
+msgid "Reset Section"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/footer.tpl.php:55
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset All"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/footer.tpl.php:60
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header_stickybar.tpl.php:28
+msgid "Working..."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header.tpl.php:11
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/redux-framework/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:399
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3030
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2168
+msgid "Required"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2171
+msgid "Recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2187
+msgid "WordPress Repository"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2190
+msgid "External Source"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2193
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2210
+msgid "Not Installed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2214
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2222
+msgid "Required Update not Available"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2225
+msgid "Requires Update"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2228
+msgid "Update recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2380
+msgid "Installed version:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2388
+msgid "Minimum required version:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2400
+msgid "Available version:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2423
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2437
+msgid "Plugin"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2438
+msgid "Source"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2439
+msgid "Type"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2604
+msgid "Install"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2610
+msgid "Update"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2613
+msgid "Activate"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2644
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2646
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2682
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:2684
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3029
+msgid "Plugin activation failed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3363
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3366
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3370
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3371
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3372
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3373
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3376
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3378
+msgid "All installations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/admin/tgm/class-tgm-plugin-activation.php:3379
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:41
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:106
+msgid "Primary Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:234
+msgid "Similar posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:245
+msgid "Untitled"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:580
+msgid "Share on Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:581
+msgid "Share on Facebook"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:582
+msgid "Share on Google Plus"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:583
+msgid "Share on Pinterest"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:584
+msgid "Share by Email"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:585
+msgid "More options"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:943
+msgid "Post options"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:947
+msgid "Full Width"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:948
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:970
+msgid "No"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:948
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:970
+msgid "Yes"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:952
+msgid "Slider Options"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:955
+msgid "Slider Type"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:957
+msgid "No Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:965
+msgid "Widget Options"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:969
+msgid "Enable Header Widgets"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:1143
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:1204
+msgid "404 - Page not Found"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:1207
+msgid "Search"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:1283
+msgid "Read more"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/basic-functions.php:1290
+msgid ""
+"<h2 style=\"color:#fff;\">Oops, no posts to display! Please check your post "
+"slider Category (ID) settings</h2>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/comments.php:33
+msgid "% Trackbacks"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/comments.php:34
+msgid "No Pings Yet"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/comments.php:35
+msgid "1 Trackback"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/comments.php:68
+msgid "Follow replies"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/comments.php:205
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/pluggable.php:80
+msgid "Permalink to this comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:13
+msgid "Popular posts, recent post and comments."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:45
+msgid "Popular"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:48
+msgid "Recent"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:51
+msgid "Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:131
+msgid "says"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:177
+msgid "Popular Posts Order By"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:181
+msgid "Highest Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:184
+msgid "Highest Views"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:188
+msgid "Number of popular posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:192
+msgid "Number of recent posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:196
+msgid "Number of comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:201
+msgid "Show popular posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:205
+msgid "Show recent posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/tabs-widget.php:209
+msgid "Show comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:15
+msgid "Sidebar 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:25
+msgid "Sidebar Widgets Disabled"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:31
+msgid ""
+"You are using one column layout. Please visit theme settings page and change "
+"layout to enable sidebar widgets. Widgets placed on this area won't be "
+"active."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:38
+msgid "Sidebar 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:52
+msgid "Header 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:65
+msgid "Header 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:78
+msgid "Header 3"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:91
+msgid "Header 4"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:104
+msgid "Footer 1"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:117
+msgid "Footer 2"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:130
+msgid "Footer 3"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:143
+msgid "Footer 4"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:259
+msgid "Insert your custom image slides"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:262
+msgid "evolve: Carousel Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\evolve/library/functions/widgets.php:345
+msgid "Title:"
+msgstr ""

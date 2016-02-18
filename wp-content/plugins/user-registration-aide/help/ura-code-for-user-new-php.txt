@@ -1,0 +1,10 @@
+user-new.php code User Registration Aide
+
+102 if(!is_wp_error( $user_id ) ) {
+			
+103	do_action('update_new_user_fields', $user_id);
+
+104 }
+
+380 <?php } do_action('load_extra_fields');?>
+

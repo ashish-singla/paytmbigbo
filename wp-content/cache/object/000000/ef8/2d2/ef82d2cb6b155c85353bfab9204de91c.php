@@ -1,0 +1,9 @@
+Gk≈V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:4:"3461";s:11:"post_author";s:2:"13";s:9:"post_date";s:19:"2016-01-21 16:36:27";s:13:"post_date_gmt";s:19:"2016-01-21 11:06:27";s:12:"post_content";s:819:"It's time to be inspired and meet a seller who has managed to do so much more with his time.
+
+Meet Mr. Roushan from Paragon Apparels. He has launched his own brand with Paytm. He talks of how the Do-it-yourself Seller Panel features has helped him with quicker turnaround times.
+
+<iframe src="https://www.youtube.com/embed/Q2uMW2pAy28" width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+Watch more videos from our <a href="http://localhost:8081/paytmbigbo/category/paytm-blog/seller-stories/" target="_blank">#SellerSelfServe</a> Series
+
+Want to get trained or have queries regarding our DIY Features? Feel free to <a href="http://paytmseller.force.com/merchanthd2?merchant_id=0&amp;time=1453374311243&amp;code=796904eeb9239697eb5b348f1dc2a8d22ddf867f" target="_blank">Contact us</a>.";s:10:"post_title";s:47:"Seller Diaries - Mr. Roushan on our DIY feature";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:25:"seller-diaries-mr-roushan";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-01-21 16:36:27";s:17:"post_modified_gmt";s:19:"2016-01-21 11:06:27";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:40:"http://localhost:8081/paytmbigbo/?p=3461";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

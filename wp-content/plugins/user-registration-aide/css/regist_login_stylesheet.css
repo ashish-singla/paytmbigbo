@@ -1,0 +1,49 @@
+#pass-strength-result
+{
+padding-top: 3px;
+padding-right: 5px;
+padding-bottom: 3px;
+padding-left: 5px;
+margin-top: 3px;
+text-align: center;
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+border-top-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: solid;
+display:block;
+}
+
+form#lostpasswordform
+{
+width: 350px;
+}
+
+form#registerform
+{
+width: 425px;
+}
+
+p.message.register
+{
+width: 375px;
+}
+
+p.message register
+{
+width: 375px;
+}
+
+form#resetpassform
+{
+
+width: 350px;
+}
+
+body.login-action-resetpass
+{
+text-align: center;
+}

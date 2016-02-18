@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Customize Admin\n"
+"POT-Creation-Date: 2015-09-26 14:50+0200\n"
+"PO-Revision-Date: 2015-09-26 14:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: customize-admin-options.php:69
+msgid "Customize Admin Options"
+msgstr "Customize Admin Opties"
+
+#: customize-admin-options.php:74
+msgid "Custom Logo Link"
+msgstr "Aangepast Logo Link"
+
+#: customize-admin-options.php:77
+msgid "If not specified, clicking on the logo will return you to the homepage."
+msgstr "Indien niet opgegeven, verwijst de link op het logo naar de homepage."
+
+#: customize-admin-options.php:82
+msgid "Custom Logo"
+msgstr "Aangepast Logo"
+
+#: customize-admin-options.php:85
+msgid "Choose Image"
+msgstr "Kies afbeelding"
+
+#: customize-admin-options.php:86
+msgid "Enter a URL or upload logo image. Maximum height: 70px, width: 310px."
+msgstr ""
+"Voer een URL in of upload het logo. Maximale hoogte: 70px, breedte: 310px."
+
+#: customize-admin-options.php:91
+msgid "Custom Login Background"
+msgstr "Aangepaste Login Achtergrond"
+
+#: customize-admin-options.php:99
+msgid "Remove Generator Meta Tag"
+msgstr "Generator Meta Tag Verwijderen"
+
+#: customize-admin-options.php:102
+msgid ""
+"Selecting this option removes the generator meta tag from the html source."
+msgstr "Deze optie verwijdert de generator meta tag uit de html-broncode."
+
+#: customize-admin-options.php:107
+msgid "Remove RSD Meta Tag"
+msgstr "RSD metatag verwijderen"
+
+#: customize-admin-options.php:110
+msgid "Selecting this option removes the RSD meta tag from the html source."
+msgstr "Deze optie verwijdert de RSD meta tag uit de html-broncode."
+
+#: customize-admin-options.php:115
+msgid "Remove WLW Meta Tag"
+msgstr "WLW metatag verwijderen"
+
+#: customize-admin-options.php:118
+msgid "Selecting this option removes the WLW meta tag from the html source."
+msgstr "Deze optie verwijdert de WLW meta tag uit de html-broncode."
+
+#: customize-admin-options.php:123
+msgid "Remove RSS feed links"
+msgstr "RSS-feed links verwijderen"
+
+#: customize-admin-options.php:126
+msgid "Selecting this option removes the RSS feed link from the html source."
+msgstr "Deze optie verwijdert de RSS feed link uit de html-broncode."
+
+#: customize-admin-options.php:131
+msgid "Remove Dashboard Widgets"
+msgstr "Dashboard-Widgets verwijderen"
+
+#: customize-admin-options.php:133
+msgid "Quick Draft"
+msgstr "Concept"
+
+#: customize-admin-options.php:134
+msgid "Selecting this option removes the Quick Press dashboard widget."
+msgstr "Deze optie verwijdert de Quick Press dashboard widget."
+
+#: customize-admin-options.php:141
+msgid "Activity"
+msgstr "Activiteit"
+
+#: customize-admin-options.php:142
+msgid "Selecting this option removes the activity dashboard widget."
+msgstr "Deze optie verwijdert het activiteit dashboard widget."
+
+#: customize-admin-options.php:149
+msgid "WordPress Site News"
+msgstr "WordPress Site Nieuws"
+
+#: customize-admin-options.php:150
+msgid "Selecting this option removes the WordPress Site News dashboard widget."
+msgstr ""
+"Het selecteren van deze optie verwijdert het WordPress Site News dashboard "
+"widget."
+
+#: customize-admin-options.php:155
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: customize-admin-options.php:158
+msgid "Add your own css to the WordPress dashboard."
+msgstr "Voeg je Eigen css toe aan het WordPress dashboard."
+
+#: customize-admin-options.php:163
+msgid "Save Changes"
+msgstr "Wijzigingen Opslaan"
+
+#: customize-admin.php:38
+#, php-format
+msgid "Go to %1$s"
+msgstr "Ga naar %1$s"

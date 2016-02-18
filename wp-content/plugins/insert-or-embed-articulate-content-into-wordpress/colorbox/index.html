@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset='utf-8'/>
+		<title>ColorBox Examples</title>
+		<style>
+			body{font:12px/1.2 Verdana, sans-serif; padding:0 10px;}
+			a:link, a:visited{text-decoration:none; color:#416CE5; border-bottom:1px solid #416CE5;}
+			h2{font-size:13px; margin:15px 0 0 0;}
+		</style>
+		<link rel="stylesheet" href="colorbox.css" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="jquery.colorbox.js"></script>
+		<script>
+			$(document).ready(function(){
+				//Examples of how to assign the ColorBox event to elements
+				$(".colorbox_iframe").colorbox({iframe:true, width:"80%", height:"80%"});
+			});
+		</script>
+	</head>
+	<body>
+		<p><a class='colorbox_iframe' href="http://threadless.com">Outside Webpage (Iframe)</a></p>
+		<p><a class='colorbox_iframe' href="http://onetarek.com">Outside Webpage (Iframe) - oneTarek.com</a></p>
+	</body>
+	</html>

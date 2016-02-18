@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: post-single.php:13
+#: post.php:13
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: lib/widgets/tweets.php:56
+msgid "%s ago"
+msgstr ""
+
+#. Text in function
+#: post-single.php:13
+#: post.php:13
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: comments.php:20
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#. Text in function
+#: navigation.php:9
+msgid "<span>&laquo;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: lib/widgets/banners-125.php:1
+msgid "Add 125x125 banners."
+msgstr ""
+
+#. Text in function
+#: lib/widgets/social-profiles.php:1
+msgid "Add buttons to your social network profiles."
+msgstr ""
+
+#. Text in function
+#: lib/widgets/posts.php:1
+msgid "Advanced widget for displaying the recent posts or posts from the selected categories or tags."
+msgstr ""
+
+#. Text in function
+#: lib/widgets/comments.php:1
+msgid "Advanced widget for displaying the recent posts with avatars"
+msgstr ""
+
+#. Text in function
+#: lib/widgets/tweets.php:1
+msgid "Advanced widget for displaying the recent tweets"
+msgstr ""
+
+#. Text in function
+#: lib/widgets/tabs.php:1
+msgid "Allows you to add multiple widgets in tabs. "
+msgstr ""
+
+#. Text in echo
+#: page-template-sitemap.php:47
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: lib/widgets/comments.php:142
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: author.php:11
+msgid "Author Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: lib/widgets/comments.php:144
+msgid "Avatar"
+msgstr ""
+
+#. Text in echo
+#: archive.php:11
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: lib/widgets/tabs.php:106
+#: lib/widgets/posts.php:75
+msgid "By"
+msgstr ""
+
+#. Text in echo
+#: page-template-archives.php:43
+#: page-template-sitemap.php:40
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: category.php:11
+msgid "Category Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: archive.php:11
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: page-template-contact.php:60
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: lib/widgets/facebook.php:1
+msgid "Facebook Like Box social widget. Enables Facebook Page owners to attract and gain Likes from their own website."
+msgstr ""
+
+#. Text in function
+#: lib/widgets/infobox.php:1
+msgid "Highlight a product or service with a custom image."
+msgstr ""
+
+#. Text in echo
+#: lib/menu-primary.php:106
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: page-template-contact.php:36
+msgid "Invalid email!"
+msgstr ""
+
+#. Text in echo
+#: page-template-contact.php:69
+msgid "Message"
+msgstr ""
+
+#. Text in echo
+#: page-template-archives.php:50
+msgid "Monthly Archives"
+msgstr ""
+
+#. Text in echo
+#: page-template-contact.php:57
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: comments.php:21
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: navigation.php:10
+msgid "Newer posts <span>&raquo;</span>"
+msgstr ""
+
+#. Text in function
+#: post-single.php:13
+#: post.php:13
+msgid "No comments"
+msgstr ""
+
+#. Text in echo
+#: post-noresults.php:4
+msgid "No results were found for your request!"
+msgstr ""
+
+#. Text in echo
+#: lib/Themater.php:1
+msgid "Not Found"
+msgstr ""
+
+#. Text in function
+#: lib/Themater.php:1
+msgid "Page %s"
+msgstr ""
+
+#. Text in echo
+#: page-template-sitemap.php:33
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+#: post-single.php:32
+#: post-page.php:21
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: lib/widgets/tabs.php:125
+#: lib/widgets/posts.php:96
+msgid "Permalink to "
+msgstr ""
+
+#. Text in function
+#: post.php:5
+#: post.php:40
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: page-template-contact.php:34
+msgid "Please fill in all required fields!"
+msgstr ""
+
+#. Text in echo
+#: page-template-sitemap.php:55
+msgid "Posts per category"
+msgstr ""
+
+#. Text in function
+#: lib/menu-primary.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in echo
+#: lib/widgets/tabs.php:125
+#: lib/widgets/posts.php:96
+msgid "Read More &raquo;"
+msgstr ""
+
+#. Text in function
+#: searchform.php:1
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: search.php:11
+msgid "Search Results for:"
+msgstr ""
+
+#. Text in function
+#: lib/Themater.php:1
+msgid "Search results for %s"
+msgstr ""
+
+#. Text in function
+#: lib/menu-secondary.php:1
+msgid "Secondary Menu"
+msgstr ""
+
+#. Text in echo
+#: lib/widgets/facebook.php:118
+msgid "Show Faces"
+msgstr ""
+
+#. Text in echo
+#: lib/widgets/facebook.php:120
+msgid "Show Header"
+msgstr ""
+
+#. Text in echo
+#: lib/widgets/facebook.php:119
+msgid "Show Stream"
+msgstr ""
+
+#. Text in function
+#: search.php:32
+msgid "Sorry, but nothing matched your search criteria: %s. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: page-template-contact.php:66
+msgid "Subject"
+msgstr ""
+
+#. Text in echo
+#: page-template-contact.php:73
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: tag.php:11
+msgid "Tag Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: page-template-contact.php:42
+msgid "Thanks for contacting us."
+msgstr ""
+
+#. Text in echo
+#: lib/widgets/comments.php:143
+msgid "The Comment"
+msgstr ""
+
+#. Text in echo
+#: page-template-archives.php:32
+msgid "The Last 20 Posts"
+msgstr ""
+
+#. Text in echo
+#: 404.php:12
+msgid "The page you requested could not be found."
+msgstr ""
+
+#. Text in echo
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: searchform.php:2
+msgid "Type and hit enter"
+msgstr ""
+
+#. Text in echo
+#: page-template-contact.php:38
+msgid "You entered the wrong number in captcha!"
+msgstr ""

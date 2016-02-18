@@ -1,0 +1,49 @@
+/* Stylesheet for User Registration Aide Pages Only!
+ * Affects WordPress core stylesheet so we only want this for our pages and not interupt the core WordPress stylesheet on other pages
+ * @since version 1.3.0
+*/
+
+input.button-primary, button.button-primary
+{
+padding:1px;
+background: #333333 !important;
+}
+
+span#footer-thankyou
+{
+display: none;
+}
+
+p#footer-upgrade
+{
+display: none;
+}
+
+div.submit
+{
+padding:1px;
+}
+
+div#message, div.updated fade
+{
+background-color: #CCCCFF !important;
+border-width:5px;
+padding:2px;
+border-style:ridge;
+border-color: #666666;
+text-align: center;
+color: #000000;
+
+}
+
+p.my_message
+{
+background-color: #CCCCFF;
+color: #000000;
+font-size: 18px;
+font-weight: normal;
+font-family: 'Russo One', sans-serif;
+font-effect: engrave;
+text-decoration: none;
+text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000;
+}
