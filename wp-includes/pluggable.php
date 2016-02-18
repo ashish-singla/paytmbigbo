@@ -364,7 +364,7 @@ function wp_mail( $to, $subject, $message, $headers = '', $attachments = array()
 	// From email and name
 	// If we don't have a name from the input headers
 	if ( !isset( $from_name ) )
-		$from_name = 'WordPress';
+		$from_name = 'GoBig';
 
 	/* If we don't have an email from the input headers default to wordpress@$sitename
 	 * Some hosts will block outgoing mail from this address if it doesn't exist but
@@ -380,7 +380,7 @@ function wp_mail( $to, $subject, $message, $headers = '', $attachments = array()
 			$sitename = substr( $sitename, 4 );
 		}
 
-		$from_email = 'wordpress@' . $sitename;
+		$from_email = 'gobig@paytm.net';
 	}
 
 	/**
@@ -1490,8 +1490,8 @@ function wp_notify_postauthor( $comment_id, $deprecated = null ) {
 		$notify_message .= sprintf( __('Spam it: %s'), admin_url("comment.php?action=spam&c=$comment_id") ) . "\r\n";
 	}
 
-	$wp_email = 'wordpress@' . preg_replace('#^www\.#', '', strtolower($_SERVER['SERVER_NAME']));
-
+	//$wp_email = 'wordpress@' . preg_replace('#^www\.#', '', strtolower($_SERVER['SERVER_NAME']));
+	$wp_email ="gobig@paytm.net";
 	if ( '' == $comment->comment_author ) {
 		$from = "From: \"$blogname\" <$wp_email>";
 		if ( '' != $comment->comment_author_email )
